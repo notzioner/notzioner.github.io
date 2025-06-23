@@ -148,7 +148,7 @@
     { src: 'assets/graphic/[G-2022]_Stop-Smoking.PNG', type: 'image', category: 'graphic', title: 'Stop Smoking (2022)' },
     { src: 'assets/graphic/[G-2022]_Internet-Safety.PNG', type: 'image', category: 'graphic', title: 'Internet Safety (2022)' },
     { src: 'assets/graphic/[G-2022]_Book-of-Proverbs.PNG', type: 'image', category: 'graphic', title: 'Book of Proverbs (2022)' },
-    { src: 'assets/graphic/[G-2021]_OneHealth.PNG', type: 'image', category: 'graphic', title: 'OneHealth (2021)' },
+    { src: 'assets/graphic/[G-2021]_OneHealth.png', type: 'image', category: 'graphic', title: 'OneHealth (2021)' },
 
     { src: 'assets/motion/[M-2024]_StephFilms.MP4', type: 'video', category: 'motion', title: 'StephFilms (2024)' },
     { src: 'assets/motion/[M-2024]_Smoochies.mp4', type: 'video', category: 'motion', title: 'Smoochies (2024)' },
