@@ -46,9 +46,10 @@
   
   /* -- PROJECT BOX -- */
   sr.reveal('.project-box',{interval: 200})
+
   /* -- HEADINGS -- */
   sr.reveal('.top-header',{})
-  /* ----- ## -- SCROLL REVEAL LEFT_RIGHT ANIMATION -- ## ----- */
+  
   /* -- ABOUT INFO & CONTACT INFO -- */
   const srLeft = ScrollReveal({
     origin: 'left',
@@ -71,7 +72,6 @@
   srRight.reveal('.form-control',{delay: 100})
   
 /* ----- CHANGE ACTIVE LINK ----- */
-  
   const sections = document.querySelectorAll('section[id]')
   function scrollActive() {
     const scrollY = window.scrollY;
@@ -96,7 +96,7 @@
   // -- GALLERY CARD ANIMATION --
   sr.reveal('.card', { interval: 150 });
 
-  /* ----- PROJECTS (old to recent) ----- */
+  /* ----- PROJECTS (recent to oldest) ----- */
   const images = [
     { src: 'assets/illustration/[I-2025]_Zelle.PNG', type: 'image', category: 'illustration', title: 'Zelle (2025)' },
     { src: 'assets/illustration/[I-2025]_Araw-ng-Kagitingan.PNG', type: 'image', category: 'illustration', title: 'Araw ng Kagitingan (2025)' },
@@ -195,7 +195,6 @@
     gallery.appendChild(card);
   });
 
-  // Animate dynamically added cards
   ScrollReveal().reveal('.card', { interval: 100, origin: 'bottom', distance: '30px' });
 }
 
@@ -228,7 +227,7 @@
     const img = filteredImages[currentIndex];
     const isVideo = img.src.match(/\.(mp4|mov|webm|ogg)$/i);
 
-    lightbox.innerHTML = ''; // Clear previous content
+    lightbox.innerHTML = ''; 
 
     if (isVideo) {
       const video = document.createElement('video');
@@ -246,7 +245,6 @@
       lightbox.appendChild(image);
     }
 
-    // Re-add your close, prev, next buttons and thumbSlider here or keep them outside lightbox div in HTML
     lightbox.classList.add('visible');
     renderThumbSlider(filteredImages, currentIndex);
     }
@@ -283,7 +281,6 @@
 
     searchInput.addEventListener('input', filterGallery);
 
-    // Initial render
     renderGallery(images);
 
     let currentSlide = 1;
@@ -295,7 +292,7 @@
         document.getElementById(`customSlide${currentSlide}`).checked = true;
         currentSlide++;
         if (currentSlide > totalSlides) currentSlide = 1;
-      }, 5000); // every 5 seconds
+      }, 5000); 
     };
 
     const stopSlider = () => {
@@ -304,9 +301,7 @@
 
     const sliderContainer = document.querySelector('.slider-container');
 
-    // Start sliding when page loads
     startSlider();
 
-    // Pause on hover
     sliderContainer.addEventListener('mouseenter', stopSlider);
     sliderContainer.addEventListener('mouseleave', startSlider);
