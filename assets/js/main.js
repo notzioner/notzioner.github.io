@@ -1,4 +1,4 @@
-/* ----- NAVIGATION BAR FUNCTION ----- */
+// -- NAVIGATION BAR FUNCTION --
     function myMenuFunction(){
       var menuBtn = document.getElementById("myNavMenu");
       if(menuBtn.className === "nav-menu"){
@@ -7,7 +7,8 @@
         menuBtn.className = "nav-menu";
       }
     }
-/* ----- ADD SHADOW ON NAVIGATION BAR WHILE SCROLLING ----- */
+
+// -- ADD SHADOW ON NAVIGATION BAR WHILE SCROLLING --
     window.onscroll = function() {headerShadow()};
     function headerShadow() {
       const navHeader = document.getElementById("header");
@@ -21,7 +22,8 @@
         navHeader.style.lineHeight = "90px";
       }
     }
-/* ----- TYPING EFFECT ----- */
+
+// -- TYPING EFFECT --
    var typingEffect = new Typed(".typedText",{
       strings : ["Create","Collaborate","Inspire"],
       loop : true,
@@ -29,14 +31,16 @@
       backSpeed : 80,
       backDelay : 2000
    })
-/* ----- ## -- SCROLL REVEAL ANIMATION -- ## ----- */
+
+// -- SCROLL REVEAL ANIMATION --
    const sr = ScrollReveal({
           origin: 'top',
           distance: '80px',
           duration: 2000,
           reset: true     
    })
-  /* -- HOME -- */
+  
+  // -- HOME --
   sr.reveal('.featured-text-card',{})
   sr.reveal('.featured-name',{delay: 100})
   sr.reveal('.featured-text-info',{delay: 200})
@@ -44,13 +48,13 @@
   sr.reveal('.social_icons',{delay: 200})
   sr.reveal('.featured-image',{delay: 300})
   
-  /* -- PROJECT BOX -- */
+  // -- PROJECT BOX --
   sr.reveal('.project-box',{interval: 200})
 
-  /* -- HEADINGS -- */
+  // -- HEADINGS --
   sr.reveal('.top-header',{})
   
-  /* -- ABOUT INFO & CONTACT INFO -- */
+  // -- ABOUT INFO & CONTACT INFO --
   const srLeft = ScrollReveal({
     origin: 'left',
     distance: '80px',
@@ -60,7 +64,8 @@
   
   srLeft.reveal('.about-info',{delay: 100})
   srLeft.reveal('.slider-container',{delay: 100})
-  /* -- ABOUT SKILLS & FORM BOX -- */
+
+   // -- ABOUT SKILLS & FORM BOX --
   const srRight = ScrollReveal({
     origin: 'right',
     distance: '80px',
@@ -71,7 +76,7 @@
   srRight.reveal('.skills-box',{delay: 100})
   srRight.reveal('.form-control',{delay: 100})
   
-/* ----- CHANGE ACTIVE LINK ----- */
+ // -- CHANGE ACTIVE LINK --
   const sections = document.querySelectorAll('section[id]')
   function scrollActive() {
     const scrollY = window.scrollY;
@@ -96,49 +101,49 @@
   // -- GALLERY CARD ANIMATION --
   sr.reveal('.card', { interval: 150 });
 
-  /* ----- PROJECTS (recent to oldest) ----- */
+  // -- PROJECTS (recent to oldest) --
   const images = [
     { src: 'assets/illustration/[I-2025]_Zelle.PNG', type: 'image', category: 'illustration', title: 'Zelle (2025)' },
-    { src: 'assets/illustration/[I-2025]_Araw-ng-Kagitingan.PNG', type: 'image', category: 'illustration', title: 'Araw ng Kagitingan (2025)' },
-    { src: 'assets/illustration/[I-2025]_SBG.PNG', type: 'image', category: 'illustration', title: 'Senator Bong Go (2025)' },
-    { src: 'assets/illustration/[I-2025]_Papyrus.PNG', type: 'image', category: 'illustration', title: 'Papyrus (2025)' },
-    { src: 'assets/illustration/[I-2024]_FPRRD.PNG', type: 'image', category: 'illustration', title: 'FPRRD (2024)' },
-    { src: 'assets/illustration/[I-2024]_Fun-for-Everyone.PNG', type: 'image', category: 'illustration', title: 'Fun for Everyone (2024)' },
-    { src: 'assets/illustration/[I-2024]_Aridashi.PNG', type: 'image', category: 'illustration', title: 'Aridashi (2024)' },
-    { src: 'assets/illustration/[I-2021]_ToxicPioner.PNG', type: 'image', category: 'illustration', title: 'ToxicPioner (2021)' },
-    { src: 'assets/illustration/[I-2021]_Violet-Gamer.PNG', type: 'image', category: 'illustration', title: 'Violet Gamer (2021)' },
-    { src: 'assets/illustration/[I-2021]_Sara.PNG', type: 'image', category: 'illustration', title: 'Sara (2021)' },
-    { src: 'assets/illustration/[I-2020]_Sans.PNG', type: 'image', category: 'illustration', title: 'Sans (2020)' },
-    { src: 'assets/illustration/[I-2020]_Phantoms.PNG', type: 'image', category: 'illustration', title: 'Phantoms (2020)' },
-    { src: 'assets/illustration/[I-2020]_Withered.PNG', type: 'image', category: 'illustration', title: 'Withered (2020)' },
+    { src: 'assets/illustration/[I-2025]_Araw-ng-Kagitingan.png', type: 'image', category: 'illustration', title: 'Araw ng Kagitingan (2025)' },
+    { src: 'assets/illustration/[I-2025]_SBG.png', type: 'image', category: 'illustration', title: 'Senator Bong Go (2025)' },
+    { src: 'assets/illustration/[I-2025]_Papyrus.png', type: 'image', category: 'illustration', title: 'Papyrus (2025)' },
+    { src: 'assets/illustration/[I-2024]_FPRRD.png', type: 'image', category: 'illustration', title: 'FPRRD (2024)' },
+    { src: 'assets/illustration/[I-2024]_Fun-for-Everyone.png', type: 'image', category: 'illustration', title: 'Fun for Everyone (2024)' },
+    { src: 'assets/illustration/[I-2024]_Aridashi.png', type: 'image', category: 'illustration', title: 'Aridashi (2024)' },
+    { src: 'assets/illustration/[I-2021]_ToxicPioner.png', type: 'image', category: 'illustration', title: 'ToxicPioner (2021)' },
+    { src: 'assets/illustration/[I-2021]_Violet-Gamer.png', type: 'image', category: 'illustration', title: 'Violet Gamer (2021)' },
+    { src: 'assets/illustration/[I-2021]_Sara.png', type: 'image', category: 'illustration', title: 'Sara (2021)' },
+    { src: 'assets/illustration/[I-2020]_Sans.png', type: 'image', category: 'illustration', title: 'Sans (2020)' },
+    { src: 'assets/illustration/[I-2020]_Phantoms.png', type: 'image', category: 'illustration', title: 'Phantoms (2020)' },
+    { src: 'assets/illustration/[I-2020]_Withered.png', type: 'image', category: 'illustration', title: 'Withered (2020)' },
 
-    { src: 'assets/graphic/[G-2025]_Zelle-Banner.PNG', type: 'image', category: 'graphic', title: 'Zelle Banner (2025)' },
-    { src: 'assets/graphic/[G-2025]_Meeting-Attendance.PNG', type: 'image', category: 'graphic', title: 'Meeting Attendance (2025)' },
+    { src: 'assets/graphic/[G-2025]_Zelle-Banner.png', type: 'image', category: 'graphic', title: 'Zelle Banner (2025)' },
+    { src: 'assets/graphic/[G-2025]_Meeting-Attendance.png', type: 'image', category: 'graphic', title: 'Meeting Attendance (2025)' },
     { src: 'assets/graphic/[G-2025]_FSUU_SSG-EXEC_HBD.PNG', type: 'image', category: 'graphic', title: 'FSUU SSG-EXEC HBD (2025)' },
-    { src: 'assets/graphic/[G-2025]_Lens-Ready.PNG', type: 'image', category: 'graphic', title: 'Lens Ready (2025)' },
+    { src: 'assets/graphic/[G-2025]_Lens-Ready.png', type: 'image', category: 'graphic', title: 'Lens Ready (2025)' },
     { src: 'assets/graphic/[G-2025]_Pictorial-Sched.PNG', type: 'image', category: 'graphic', title: 'Pictorial Schedule (2025)' },
-    { src: 'assets/graphic/[G-2025]_Join-The-Pub.PNG', type: 'image', category: 'graphic', title: 'Join The Pub (2025)' },
-    { src: 'assets/graphic/[G-2025]_Music_Album_Cover.PNG', type: 'image', category: 'graphic', title: 'Music Album Cover (2025)' },
-    { src: 'assets/graphic/[G-2025]_Piniliay-Stances.PNG', type: 'image', category: 'graphic', title: 'Piniliay Stances (2025)' },
+    { src: 'assets/graphic/[G-2025]_Join-The-Pub.png', type: 'image', category: 'graphic', title: 'Join The Pub (2025)' },
+    { src: 'assets/graphic/[G-2025]_Music_Album_Cover.png', type: 'image', category: 'graphic', title: 'Music Album Cover (2025)' },
+    { src: 'assets/graphic/[G-2025]_Piniliay-Stances.png', type: 'image', category: 'graphic', title: 'Piniliay Stances (2025)' },
     { src: 'assets/graphic/[G-2025]_Rizal-and-Leonor.PNG', type: 'image', category: 'graphic', title: 'Rizal and Leonor (2025)' },
-    { src: 'assets/graphic/[G-2025]_UCS-Program-Flow.PNG', type: 'image', category: 'graphic', title: 'UCS Program Flow (2025)' },
+    { src: 'assets/graphic/[G-2025]_UCS-Program-Flow.png', type: 'image', category: 'graphic', title: 'UCS Program Flow (2025)' },
     { src: 'assets/graphic/[G-2025]_UCS-Bulletin.PNG', type: 'image', category: 'graphic', title: 'UCS Bulletin Board (2025)' },
-    { src: 'assets/graphic/[G-2025]_CSP-Days_C2-Shirt.PNG', type: 'image', category: 'graphic', title: 'CSP Days C2 Shirt (2025)' },
-    { src: 'assets/graphic/[G-2025]_FSUU-DC_Org-Shirt.PNG', type: 'image', category: 'graphic', title: 'FSUU DC Org. Shirt (2025)' },
-    { src: 'assets/graphic/[G-2024]_UCS_Org-Shirt.PNG', type: 'image', category: 'graphic', title: 'UCS Org. Shirt (2025)' },
+    { src: 'assets/graphic/[G-2025]_CSP-Days_C2-Shirt.png', type: 'image', category: 'graphic', title: 'CSP Days C2 Shirt (2025)' },
+    { src: 'assets/graphic/[G-2025]_FSUU-DC_Org-Shirt.png', type: 'image', category: 'graphic', title: 'FSUU DC Org. Shirt (2025)' },
+    { src: 'assets/graphic/[G-2024]_UCS_Org-Shirt.png', type: 'image', category: 'graphic', title: 'UCS Org. Shirt (2025)' },
     { src: 'assets/graphic/[G-2025]_Pasundayag.PNG', type: 'image', category: 'graphic', title: 'Pasundayag (2025)' },
     { src: 'assets/graphic/[G-2025]_Manobo.PNG', type: 'image', category: 'graphic', title: 'Auditions 3 (2025)' },
     { src: 'assets/graphic/[G-2025]_Circus.PNG', type: 'image', category: 'graphic', title: 'Auditions 2 (2025)' },
     { src: 'assets/graphic/[G-2025]_TTWE.PNG', type: 'image', category: 'graphic', title: 'Auditions 1 (2025)' },
     { src: 'assets/graphic/[G-2024]_TBS-Lattes.PNG', type: 'image', category: 'graphic', title: 'TThe Bean Scene Lattes (2024)' },
     { src: 'assets/graphic/[G-2024]_TBS-Cookies.PNG', type: 'image', category: 'graphic', title: 'The Bean Scene Cookies (2024)' },
-    { src: 'assets/graphic/[G-2023]_STEM-Field-Careers.PNG', type: 'image', category: 'graphic', title: 'STEM Field Careers (2023)' },
-    { src: 'assets/graphic/[G-2023]_Media-Brochure.PNG', type: 'image', category: 'graphic', title: 'Media Brochure (2023)' },
+    { src: 'assets/graphic/[G-2023]_STEM-Field-Careers.png', type: 'image', category: 'graphic', title: 'STEM Field Careers (2023)' },
+    { src: 'assets/graphic/[G-2023]_Media-Brochure.png', type: 'image', category: 'graphic', title: 'Media Brochure (2023)' },
     { src: 'assets/graphic/[G-2023]_Krosword-Puzzle.PNG', type: 'image', category: 'graphic', title: 'Krosword Puzzle (2023)' },
     { src: 'assets/graphic/[G-2023]_CS_Flyer.PNG', type: 'image', category: 'graphic', title: 'Café Select Flyer (2023)' },
-    { src: 'assets/graphic/[G-2023]_Café-Select.PNG', type: 'image', category: 'graphic', title: 'Café Select (2023)' },
-    { src: 'assets/graphic/[G-2023]_ByteStudios.PNG', type: 'image', category: 'graphic', title: 'Byte Studios (2023)' },
-    { src: 'assets/graphic/[G-2023]_Buhay-ng-Estudyante.PNG', type: 'image', category: 'graphic', title: 'Buhay ng Estudyante (2023)' },
+    { src: 'assets/graphic/[G-2023]_Café-Select.png', type: 'image', category: 'graphic', title: 'Café Select (2023)' },
+    { src: 'assets/graphic/[G-2023]_ByteStudios.png', type: 'image', category: 'graphic', title: 'Byte Studios (2023)' },
+    { src: 'assets/graphic/[G-2023]_Buhay-ng-Estudyante.png', type: 'image', category: 'graphic', title: 'Buhay ng Estudyante (2023)' },
     { src: 'assets/graphic/[G-2022]_Wika-Timeline.PNG', type: 'image', category: 'graphic', title: 'Wika Timeline (2022)' },
     { src: 'assets/graphic/[G-2022]_Stop-Smoking.PNG', type: 'image', category: 'graphic', title: 'Stop Smoking (2022)' },
     { src: 'assets/graphic/[G-2022]_Internet-Safety.PNG', type: 'image', category: 'graphic', title: 'Internet Safety (2022)' },
@@ -146,12 +151,12 @@
     { src: 'assets/graphic/[G-2021]_OneHealth.PNG', type: 'image', category: 'graphic', title: 'OneHealth (2021)' },
 
     { src: 'assets/motion/[M-2024]_StephFilms.MP4', type: 'video', category: 'motion', title: 'StephFilms (2024)' },
-    { src: 'assets/motion/[M-2024]_Smoochies.MP4', type: 'video', category: 'motion', title: 'Smoochies (2024)' },
-    { src: 'assets/motion/[M-2023]_Sagutin-Mo-Ako.MP4', type: 'video', category: 'motion', title: 'Sagutin Mo Ako (2023)' },
-    { src: 'assets/motion/[M-2023]_B-Lotion-Products.MP4', type: 'video', category: 'motion', title: 'Body Lotion Products (2023)' },
-    { src: 'assets/motion/[M-2023]_B-Lotion-Levels.MP4', type: 'video', category: 'motion', title: 'Body Lotion Levels (2023)' },
-    { src: 'assets/motion/[M-2022]_MelVid-Productions.MP4', type: 'video', category: 'motion', title: 'MelVid Productions (2022)' },
-    { src: 'assets/motion/[M-2022]_Copy-Me-Costplay.MP4', type: 'video', category: 'motion', title: 'VAC CMC Contest (2022)' }
+    { src: 'assets/motion/[M-2024]_Smoochies.mp4', type: 'video', category: 'motion', title: 'Smoochies (2024)' },
+    { src: 'assets/motion/[M-2023]_Sagutin-Mo-Ako.mp4', type: 'video', category: 'motion', title: 'Sagutin Mo Ako (2023)' },
+    { src: 'assets/motion/[M-2023]_B-Lotion-Products.mp4', type: 'video', category: 'motion', title: 'Body Lotion Products (2023)' },
+    { src: 'assets/motion/[M-2023]_B-Lotion-Levels.mp4', type: 'video', category: 'motion', title: 'Body Lotion Levels (2023)' },
+    { src: 'assets/motion/[M-2022]_MelVid-Productions.mp4', type: 'video', category: 'motion', title: 'MelVid Productions (2022)' },
+    { src: 'assets/motion/[M-2022]_Copy-Me-Costplay.mp4', type: 'video', category: 'motion', title: 'VAC CMC Contest (2022)' }
   ];
 
   const gallery = document.getElementById('gallery');
