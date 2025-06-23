@@ -130,7 +130,7 @@ nav{
    position: relative;
 }
 .nav-name{
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 600;
     color: #FD5F36;
     font-family: 'Brick', sans-serif;
@@ -663,7 +663,7 @@ footer{
     padding-block: 40px 60px;
 }
 .top-footer p{
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 600;
     font-family: 'Brick', sans-serif;
     color: #FD5F36;
