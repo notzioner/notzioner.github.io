@@ -263,7 +263,6 @@ html{
     list-style-type: lower-alpha;
 }
 
-
 @media (max-width: 600px) {
     .wrapper {
       flex-direction: column;
