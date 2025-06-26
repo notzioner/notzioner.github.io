@@ -86,6 +86,10 @@ html{
   flex-shrink: 0; /* prevent shrinking */
 }
 
+.tc_item.tc_foot.flex_align a.decline_btn {
+    margin-right: 5px; /* ← Space between buttons */
+}
+
 .icon {
   min-width: 40px; /* or whatever size fits */
   min-height: 40px;
