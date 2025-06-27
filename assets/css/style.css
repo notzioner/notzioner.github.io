@@ -1123,6 +1123,19 @@ body {
 
 }
 @media (max-width: 600px) {
+  
+html, body {
+  overflow-x: hidden;
+}
+
+* {
+  touch-action: pan-y; /* disables horizontal swipe gestures */
+}
+
+button, a {
+  touch-action: manipulation;
+}
+
 /* GENERAL CONTAINER */
   .container {
     display: flex;
@@ -1220,6 +1233,7 @@ body {
     order: 1;
     justify-content: center;
     transform: translateY(10px); /* 👈 moves image down by 10px */
+    min-height: 250px;
   }
   .image, .image img{
     width: 180px;
