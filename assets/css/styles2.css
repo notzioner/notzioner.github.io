@@ -269,7 +269,8 @@ html{
     }
   
     .terms_service {
-      width: 100%;
+      width: 90%;
+      max-width: 700px;
       height: auto;
       padding: 20px 15px;
       box-shadow: none;
