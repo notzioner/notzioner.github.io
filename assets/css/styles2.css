@@ -264,7 +264,6 @@ html{
 
 /* ----- MEDIA QUERY == 540px / RESPONSIVE ----- */
 @media only screen and (max-width: 540px){
-
     .wrapper {
       flex-direction: column;
       padding: 20px 10px;
@@ -351,5 +350,96 @@ html{
     
       .tc_item.tc_foot.flex_align a.decline_btn {
         margin-right: 10px; /* ← Space between buttons */
+  }
+}
+
+@media only screen and (max-width: 539px) {
+  .wrapper {
+    flex-direction: column;
+    padding: 20px 10px;
+  }
+
+  .terms_service {
+    width: 100%;
+    height: auto;
+    padding: 20px 15px;
+    box-shadow: none;
+    outline: none;
+    outline-offset: 0;
+  }
+
+  .terms_service .tc_head {
+    align-items: flex-start;
+    gap: 10px;
+    height: auto;
+  }
+
+  .terms_service .tc_head .icon {
+    width: 40px;
+    height: 40px;
+    font-size: 18px;
+    margin-right: 0;
+  }
+
+  .tc_body {
+    font-size: 13px;
+  }
+
+  .tc_body h3 {
+    font-size: 15px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+  }
+
+  .tc_body p,
+  .tc_body ul li {
+    font-size: 13px;
+    line-height: 1.5;
+  }
+
+  .tc_foot {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+    margin-top: 40px;
+  }
+
+  .terms_service .tc_foot a.decline_btn,
+  .terms_service .tc_foot a.accept_btn {
+    width: 100%;
+    padding: 10px 15px;
+    font-size: 14px;
+  }
+
+  .inner_margin_wrapper {
+    padding: 10px;
+  }
+
+  .icon ion-icon {
+    font-size: 20px;
+  }
+
+  .tc_item.tc_foot.flex_align {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 0;
+    width: 100%;
+    flex-wrap: nowrap;
+  }
+
+  .tc_item.tc_foot.flex_align a {
+    flex: 1 1 30%;
+    max-width: 50%;
+    margin: 0;
+    padding: 10px 12px;
+    font-size: 13px;
+    text-align: center;
+    box-sizing: border-box;
+  }
+
+  .tc_item.tc_foot.flex_align a.decline_btn {
+    margin-right: 10px;
   }
 }
