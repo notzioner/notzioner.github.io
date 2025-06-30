@@ -103,7 +103,7 @@
 
   // -- PROJECTS (recent to oldest) --
   const images = [
-    { src: 'assets/illustration/[I-2025]_Pride-Month.png', type: 'image', category: 'illustration', title: 'Pride Month (2025)' 
+    { src: 'assets/illustration/[I-2025]_Pride-Month.png', type: 'image', category: 'illustration', title: 'Pride Month (2025)' },
     { src: 'assets/illustration/[I-2025]_Zelle.PNG', type: 'image', category: 'illustration', title: 'Zelle (2025)' },
     { src: 'assets/illustration/[I-2025]_Araw-ng-Kagitingan.png', type: 'image', category: 'illustration', title: 'Araw ng Kagitingan (2025)' },
     { src: 'assets/illustration/[I-2025]_SBG.png', type: 'image', category: 'illustration', title: 'Senator Bong Go (2025)' },
