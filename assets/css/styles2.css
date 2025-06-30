@@ -261,92 +261,86 @@ html{
 }
 
 /* ----- MEDIA QUERY == 540px / RESPONSIVE ----- */
-@media only screen and (max-width: 540px){
-    .wrapper {
-      flex-direction: column;
-      padding: 20px 10px;
-    }
-  
-    .terms_service {
-      width: 100%;
-      height: auto;
-      padding: 20px 15px;
-      box-shadow: none;
-      outline: none;
-      outline-offset: 0;
-    }
-  
-    .terms_service .tc_head {
-      align-items: flex-start;
-      gap: 10px;
-      height: auto;
-    }
-  
-    .terms_service .tc_head .icon {
-      width: 40px;
-      height: 40px;
-      font-size: 18px;
-      margin-right: 0;
-    }
-  
-    .tc_body {
-      font-size: 13px;
-    }
-  
-    .tc_body h3 {
-      font-size: 15px;
-      margin-top: 50px;
-      margin-bottom: 20px;
-    }
-  
-    .tc_body p,
-    .tc_body ul li {
-      font-size: 13px;
-      line-height: 1.5;
-    }
-  
-    .tc_foot {
-      flex-direction: column;
-      align-items: stretch;
-      gap: 10px;
-      margin-top: 40px;
-    }
-  
-    .terms_service .tc_foot a.decline_btn,
-    .terms_service .tc_foot a.accept_btn {
-      width: 100%;
-      padding: 10px 15px;
-      font-size: 14px;
-    }
-  
-    .inner_margin_wrapper {
-      padding: 10px;
-    }
-  
-    .icon ion-icon {
-      font-size: 20px;
-    }
-    .tc_item.tc_foot.flex_align {
-        display: flex;
-        flex-direction: row;         /* Ensure they're side-by-side */
-        justify-content: space-between;
-        align-items: center;
-        gap: 0;                      /* Remove spacing between buttons */
-        width: 100%;
-        flex-wrap: nowrap;
-      }
-    
-      .tc_item.tc_foot.flex_align a {
-        flex: 1 1 30%;               /* Each button takes half the row */
-        max-width: 50%;
-        margin: 0;                   /* Remove unwanted margin */
-        padding: 10px 12px;
-        font-size: 13px;
-        text-align: center;
-        box-sizing: border-box;
-      }
-    
-      .tc_item.tc_foot.flex_align a.decline_btn {
-        margin-right: 10px; /* ← Space between buttons */
+@media only screen and (max-width: 540px) {
+  .wrapper {
+    flex-direction: column;
+    padding: 20px 10px;
+  }
+
+  .terms_service {
+    padding: 25px 20px;
+    width: 100%;
+    height: auto;
+    box-shadow: none;
+    outline: none;
+    outline-offset: 0;
+    text-align: left;
+  }
+
+  .terms_service .tc_head {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+  }
+
+  .terms_service .tc_head .icon {
+    width: 40px;
+    height: 40px;
+    font-size: 18px;
+    margin-right: 0;
+  }
+
+  .tc_body {
+    font-size: 14px;
+    line-height: 1.6;
+  }
+
+  .tc_body h3 {
+    font-size: 16px;
+    margin-top: 40px;
+    margin-bottom: 15px;
+  }
+
+  .tc_body p,
+  .tc_body ul li {
+    font-size: 14px;
+    line-height: 1.5;
+  }
+
+  .tc_foot {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+    margin-top: 30px;
+  }
+
+  .tc_foot a {
+    width: 100%;
+    font-size: 14px;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+
+  .inner_margin_wrapper {
+    padding: 15px 10px;
+  }
+
+  .tc_item.tc_foot.flex_align {
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 0;
+    flex-wrap: nowrap;
+  }
+
+  .tc_item.tc_foot.flex_align a {
+    flex: 1 1 48%;
+    font-size: 13px;
+    padding: 10px 12px;
+    text-align: center;
+    margin: 0;
+  }
+
+  .tc_item.tc_foot.flex_align a.decline_btn {
+    margin-right: 10px;
   }
 }
