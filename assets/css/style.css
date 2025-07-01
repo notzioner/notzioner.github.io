@@ -1,4 +1,4 @@
-/* ----- POPPINS FONT Link ----- */
+/* ----- POPPINS FONT ----- */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 @font-face {
   font-family: 'Brick';
@@ -9,7 +9,7 @@
 
 /* ----- VARIABLES ----- */
 :root{
-    --body-color: rgb(246, 238, 224); /* background color = cream*/
+    --body-color: rgb(246, 238, 224); 
     --color-white: rgb(246, 238, 224); 
 
     --text-color-second: rgb(50, 74, 42);
@@ -20,7 +20,7 @@
 
     --second-color: rgb(255, 166, 34);
     --third-color: rgb(50, 74, 42);
-    --first-shadow-color: rgba(0, 0, 0, 0.1); /* cards, buttons = black shadow*/
+    --first-shadow-color: rgba(0, 0, 0, 0.1);
 }
 
 /* ----- BASE ----- */
@@ -36,22 +36,25 @@ html{
     scroll-behavior: smooth;
 }
 
-/* ----- CHANGE THE SCROLL BAR DESIGN ----- */
+/* ----- SCROLL BAR DESIGN ----- */
 ::-webkit-scrollbar{
     width: 10px;
     border-radius: 25px;
 }
+
 ::-webkit-scrollbar-track{
     background: #f1f1f1;
 }
+
 ::-webkit-scrollbar-thumb{
     background: #ccc;
     border-radius: 30px;
 }
+
 ::-webkit-scrollbar-thumb:hover{
     background: #bbb;
 }
-/* ---##-- REUSABLE CSS --##--- */
+
 .yellow-btn{
     display: inline-flex;
     align-items: center;
@@ -62,7 +65,7 @@ html{
     text-decoration: none; 
     font-weight: 500;
     padding: 12px 20px;
-    background: var(--first-color); /*army green*/
+    background: var(--first-color);
     border: 2px solid var(--first-color); /*army green*/
     color: var(--color-white);
     border-radius: 30px;
