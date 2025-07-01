@@ -1,8 +1,9 @@
-/* ----- POPPINS FONT Link ----- */
+/* ----- POPPINS FONT ----- */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
 /* ----- ROOT ----- */
 :root{
-    --bg-clr: rgb(246, 238, 224); /* background color = cream*/
+    --bg-clr: rgb(246, 238, 224);
     --white: rgb(246, 238, 224);
     --orange: rgb(255, 166, 34);
 
@@ -10,6 +11,7 @@
     --secondary-text-clr: rgb(246, 238, 244);
     --bg-hvr: rgb(255, 166, 34);
 }
+
 /* ----- BASE ----- */
 *{
     margin: 0;
@@ -22,25 +24,32 @@ body{
     background: var(--bg-clr);
     font-size: 14px;
 }
+
 /* ----- SMOOTH SCROLL ----- */
 html{
     scroll-behavior: smooth;
 }
-/* ----- CHANGE THE SCROLL BAR DESIGN ----- */
+
+/* ----- SCROLL BAR DESIGN ----- */
 ::-webkit-scrollbar{
     width: 10px;
     border-radius: 25px;
 }
+
 ::-webkit-scrollbar-track{
     background: #f1f1f1;
+    
 }
 ::-webkit-scrollbar-thumb{
     background: #ccc;
     border-radius: 30px;
+    
 }
 ::-webkit-scrollbar-thumb:hover{
     background: #bbb;
+    
 }
+
 /* ----- BASE ----- */
 .flex_align_justify{
     display: flex;
@@ -66,8 +75,8 @@ html{
 
 .terms_service {
     padding: 30px; 
-    width: 80%; /* or 100%, or a fixed width like 600px */
-    margin: 0 auto; /* centers it horizontally */
+    width: 80%;
+    margin: 0 auto; 
     height: 250px;
     background: var(--white);
     box-shadow: none;
@@ -81,25 +90,28 @@ html{
 }
 
 .tc_item {
-  flex-shrink: 0; /* prevent shrinking */
+  flex-shrink: 0;
 }
 
 .tc_item.tc_foot.flex_align a.decline_btn {
-    margin-right: 5px; /* ← Space between buttons */
+    margin-right: 5px; 
 }
+
 .icon {
-  min-width: 40px; /* or whatever size fits */
+  min-width: 40px;
   min-height: 40px;
   flex-shrink: 0;
 }
+
 .icon ion-icon {
-  font-size: 24px; /* or clamp(20px, 2vw, 30px) */
+  font-size: 24px;
 }
 
 .terms_service .tc_item {
     padding: 0;
     margin-bottom: 10px;
 }
+
 /* ----- HEAD ----- */
 .terms_service .tc_head {
     box-shadow: none;
@@ -157,6 +169,7 @@ html{
 .tier-disc-inside ul li {
     list-style: disc-inside;
 }
+
 .tc_body ul li{
     margin-bottom: 10px;
     padding-left: 5px;
@@ -167,27 +180,28 @@ html{
     color: var(--primary-text-clr);
     font-weight: 600;
 }
+
 /* ----- FOOT ----- */
 .terms_service .tc_foot{
     box-shadow: none;
     justify-content: space-between;
     height: 80px;
 }
+
 .terms_service .tc_foot a.decline_btn,
 .terms_service .tc_foot a.accept_btn {
-    display: inline-block;      /* Make <a> behave like buttons */
+    display: inline-block; 
     width: 100%;
     border: 1px solid var(--primary-text-clr);
     padding: 10px 20px;
     border-radius: 3px;
-    cursor: pointer;  
+    cursor: pointer;
     transition: all 0.5s ease;
-    text-align: center;         /* Center text inside */
-    text-decoration: none;      /* Remove underline */
+    text-align: center;
+    text-decoration: none;
     font-weight: 500;
 }
 
-/* Decline button */
 .terms_service .tc_foot a.decline_btn {
     margin-right: 20px;
     background: var(--bg-clr);
@@ -196,7 +210,6 @@ html{
     border: 2px solid var(--primary-text-clr);
 }
 
-/* Accept button */
 .terms_service .tc_foot a.accept_btn {
     background: var(--primary-text-clr);
     color: var(--bg-clr);
@@ -204,7 +217,6 @@ html{
     border: 2px solid var(--primary-text-clr);
 }
 
-/* Hover effects */
 .terms_service .tc_foot a.decline_btn:hover {
     background: var(--primary-text-clr);
     color: var(--white);
@@ -223,10 +235,10 @@ html{
 .sr-top, .sr-left, .sr-fade, .sr-bottom {
     transition: all 0.6s ease-in-out;
 }
-/* === Section Spacing === */
+
 .tc_body h3 {
-  margin-top: 80px; /* space before each new section */
-  margin-bottom: 40px; /* small, clean space after h3 */
+  margin-top: 80px;
+  margin-bottom: 40px;
 }
 
 .tc_body ul,
@@ -235,123 +247,116 @@ html{
   margin-bottom: 0;
 }
 
-/* Consistent list spacing */
 .tc_body li {
   margin-bottom: 6px;
 }
 
-/* Remove unwanted scrollbars */
 .terms_service,
 .inner_margin_wrapper {
   overflow: visible;
 }
 
-/* Animate initial paragraph */
 .tc_body > p {
-  margin-bottom: 40px; /* subtle gap before first section */
+  margin-bottom: 40px;
 }
 
-/* Optional: space before footer buttons */
 .tc_foot {
   margin-top: 120px;
 }
 
 .alpha-list {
-    list-style-type: lower-alpha;
+  list-style-type: lower-alpha;
 }
 
-
-/* ----- MEDIA QUERY == 540px / RESPONSIVE ----- */
+/* ----- MEDIA QUERY ----- */
 @media only screen and (max-width: 540px){
-    .wrapper {
-      flex-direction: column;
-      padding: 20px 10px;
-    }
-  
-    .terms_service {
-      width: 90%;
-      max-width: 700px;
-      height: auto;
-      padding: 20px 15px;
-      box-shadow: none;
-      outline: none;
-      outline-offset: 0;
-    }
-  
-    .terms_service .tc_head {
-      align-items: flex-start;
-      gap: 10px;
-      height: auto;
-    }
-  
-    .terms_service .tc_head .icon {
-      width: 40px;
-      height: 40px;
-      font-size: 18px;
-      margin-right: 0;
-    }
-  
-    .tc_body {
-      font-size: 13px;
-    }
-  
-    .tc_body h3 {
-      font-size: 15px;
-      margin-top: 50px;
-      margin-bottom: 20px;
-    }
-  
-    .tc_body p,
-    .tc_body ul li {
-      font-size: 13px;
-      line-height: 1.5;
-    }
-  
-    .tc_foot {
-      flex-direction: column;
-      align-items: stretch;
-      gap: 10px;
-      margin-top: 40px;
-    }
-  
-    .terms_service .tc_foot a.decline_btn,
-    .terms_service .tc_foot a.accept_btn {
-      width: 100%;
-      padding: 10px 15px;
-      font-size: 14px;
-    }
-  
-    .inner_margin_wrapper {
-      padding: 10px;
-    }
-  
-    .icon ion-icon {
-      font-size: 20px;
-    }
-    .tc_item.tc_foot.flex_align {
-        display: flex;
-        flex-direction: row;         /* Ensure they're side-by-side */
-        justify-content: space-between;
-        align-items: center;
-        gap: 0;                      /* Remove spacing between buttons */
-        width: 100%;
-        flex-wrap: nowrap;
-      }
-    
-      .tc_item.tc_foot.flex_align a {
-        flex: 1 1 30%;               /* Each button takes half the row */
-        max-width: 50%;
-        margin: 0;                   /* Remove unwanted margin */
-        padding: 10px 12px;
-        font-size: 13px;
-        text-align: center;
-        box-sizing: border-box;
-      }
-    
-      .tc_item.tc_foot.flex_align a.decline_btn {
-        margin-right: 10px; /* ← Space between buttons */
-  }
+.wrapper {
+  flex-direction: column;
+  padding: 20px 10px;
 }
-
+  
+.terms_service {
+  width: 90%;
+  max-width: 700px;
+  height: auto;
+  padding: 20px 15px;
+  box-shadow: none;
+  outline: none;
+  outline-offset: 0;
+}
+  
+.terms_service .tc_head {
+  align-items: flex-start;
+  gap: 10px;
+  height: auto;
+}
+  
+.terms_service .tc_head .icon {
+  width: 40px;
+  height: 40px;
+  font-size: 18px;
+  margin-right: 0;
+}
+  
+.tc_body {
+  font-size: 13px;
+}
+  
+.tc_body h3 {
+  font-size: 15px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+  
+.tc_body p,
+.tc_body ul li {
+  font-size: 13px;
+  line-height: 1.5;
+}
+  
+.tc_foot {
+  flex-direction: column;
+  align-items: stretch;
+  gap: 10px;
+  margin-top: 40px;
+}
+  
+.terms_service .tc_foot a.decline_btn,
+.terms_service .tc_foot a.accept_btn {
+  width: 100%;
+  padding: 10px 15px;
+  font-size: 14px;
+}
+  
+.inner_margin_wrapper {
+  padding: 10px;
+}
+  
+.icon ion-icon {
+  font-size: 20px;
+}
+    
+.tc_item.tc_foot.flex_align {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0;
+  width: 100%;
+  flex-wrap: nowrap;
+}
+    
+.tc_item.tc_foot.flex_align a {
+  flex: 1 1 30%;
+  max-width: 50%;
+  margin: 0;
+  padding: 10px 12px;
+  font-size: 13px;
+  text-align: center;
+  box-sizing: border-box;
+}
+    
+.tc_item.tc_foot.flex_align a.decline_btn {
+  margin-right: 10px;
   }
 }
