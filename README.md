@@ -4,7 +4,7 @@ A business site by [@notzioner](https://github.com/notzioner)'s personal, school
 
 ---
 
-## 🔗 Live Site
+## 🌐 Live Site
 
 **Homepage:** [notzioner.github.io](https://notzioner.github.io)  
 **Terms of Service:** [notzioner.github.io/terms-of-service](https://notzioner.github.io/terms-of-service)
@@ -12,9 +12,8 @@ A business site by [@notzioner](https://github.com/notzioner)'s personal, school
 ---
 
 ## ⚙️ Made With
-
-- **HTML** - 32.5%
 - **CSS** - 46.2%
+- **HTML** - 32.5%
 - **JavaScript**- 21.3% 
 
 **Custom Domain:** GitHub Pages, **Total Commits:** 137  
