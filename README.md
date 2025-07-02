@@ -11,14 +11,14 @@
 
 ---
 
-## 🧠 Tech Stack
+## ⚙️ Made With
 
-- **HTML** – 32.7%
-- **CSS** – 26.0%
-- **JavaScript** – 21.3%  
-*(Based on recent Git activity)*
+- **HTML** 
+- **CSS** 
+- **JavaScript** 
 
 Total Commits: **137**  
+Deployments: github-pages – 104
 Primary Branch: `main`
 
 ---
@@ -38,9 +38,9 @@ Primary Branch: `main`
 │   │   └── Portfolio (2018–present)
 │   ├── fonts/
 │   │   └── brick.woff
-│   ├── graphic/            # 30 graphic design projects (2021–present)
+│   ├── graphic/            # 30 graphic projects (2021–present)
 │   ├── illustration/       # 15 illustration projects (2020–present)
-│   ├── images/             # Logo, avatar, previews, tools, etc.
+│   ├── images/             # Logo, avatar, CV preview, tool and software icons, and commission board
 │   ├── js/
 │   │   ├── main.js         # JS for Creative Hub
 │   │   └── main2.js        # JS for Terms of Service
@@ -57,8 +57,8 @@ Primary Branch: `main`
 - **About**
 - **Projects**
   - Illustration
-  - Graphic Design
-  - Motion Design
+  - Graphic
+  - Motion
 - **Service**
   - Terms of Service
   - Portfolio (selected works)
@@ -80,7 +80,7 @@ Primary Branch: `main`
 
 ## 📌 Notes
 
-- All content is original and curated by @notzioner.
+- All rights reserved by @notzioner, please do not reproduce.
 - Intended for clients, collaborators, and academic/professional reference.
 
 ---
@@ -88,7 +88,7 @@ Primary Branch: `main`
 ## 📫 Contact
 
 - YouTube / Instagram / X (Twitter) / GitHub: `@notzioner`  
-- Discord Server: *linked on the website*
+- Discord Server: (https://discord.gg/vVGm2u8UGd)
 
 ---
 
