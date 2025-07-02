@@ -17,8 +17,9 @@
 - **CSS** 
 - **JavaScript** 
 
-Total Commits: **137**  
-Primary Branch: `main`
+**Custom Domain:** GitHub Pages
+**Total Commits:** 137  
+**Primary Branch:** `main`
 
 ---
 
