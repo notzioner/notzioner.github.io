@@ -18,7 +18,6 @@
 - **JavaScript** 
 
 Total Commits: **137**  
-Deployments: github-pages – 104
 Primary Branch: `main`
 
 ---
@@ -61,7 +60,7 @@ Primary Branch: `main`
   - Motion
 - **Service**
   - Terms of Service
-  - Portfolio (selected works)
+  - Portfolio (Selected Works)
   - Curriculum Vitae
   - Project Showcase
   - Social Media Links
@@ -80,14 +79,14 @@ Primary Branch: `main`
 
 ## 📌 Notes
 
-- All rights reserved by @notzioner, please do not reproduce.
-- Intended for clients, collaborators, and academic/professional reference.
+- All rights reserved by `@notzioner`, please do not reproduce.
+- Intended for clients, collaborators, and academic / professional reference.
 
 ---
 
 ## 📫 Contact
 
-- YouTube / Instagram / X (Twitter) / GitHub: `@notzioner`  
+- YouTube / Instagram / X (Twitter) / GitHub / Discord: `@notzioner`  
 - Discord Server: (https://discord.gg/vVGm2u8UGd)
 
 ---
