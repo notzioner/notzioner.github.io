@@ -16,7 +16,7 @@ A business site by [@notzioner](https://github.com/notzioner)'s personal, school
 - **HTML** - 32.5%
 - **JavaScript**- 21.3% 
 
-**Custom Domain:** GitHub Pages, **Total Commits:** 137  
+**Custom Domain:** GitHub Pages
 **Primary Branch:** `main`
 
 ---
