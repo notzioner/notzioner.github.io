@@ -1,6 +1,6 @@
 # Miss Zelle | Creative Hub
 
-**Miss Zelle | Creative Hub** is a business site by [@notzioner](https://github.com/notzioner)'s personal, school, and brand creative works.
+A business site by [@notzioner](https://github.com/notzioner)'s personal, school, and brand creative works.
 
 ---
 
