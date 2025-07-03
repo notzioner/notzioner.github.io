@@ -12,11 +12,9 @@ A business site by [@notzioner](https://github.com/notzioner)'s personal, school
 ---
 
 ## ⚙️ Made With
-- **CSS** - 46.2%
-- **HTML** - 32.5%
-- **JavaScript** - 21.3% 
-
-**Custom Domain:** GitHub Pages, **Primary Branch:** `main`
+- **Languages**: CSS, HTML, JavaScript
+- **Custom Domain**: GitHub Pages
+- **Primary Branch**: `main`
 
 ---
 
