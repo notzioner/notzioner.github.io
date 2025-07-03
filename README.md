@@ -82,7 +82,7 @@ A business site by [@notzioner](https://github.com/notzioner)'s personal, school
 
 ## 📫 Contact
 
-- YouTube / Instagram / X (Twitter) / GitHub / Discord: `@notzioner`  
+- YouTube / Instagram / X (Twitter) / GitHub: `@notzioner`  
 - Discord Server: (https://discord.gg/vVGm2u8UGd)
 
 ---
