@@ -119,7 +119,7 @@
     { src: 'assets/illustration/[I-2020]_Phantoms.png', type: 'image', category: 'illustration', title: 'Phantoms (2020)' },
     { src: 'assets/illustration/[I-2020]_Withered.png', type: 'image', category: 'illustration', title: 'Withered (2020)' },
 
-    { src: 'assets/graphic/[G-2025]_THMP-Org-Shirt.png', type: 'image', category: 'graphic', title: 'THMP Org. Shirt (2025)' },
+    { src: 'assets/graphic/[G-2025]_THMP-Org-Shirt.png', type: 'image', category: 'graphic', title: 'THMP LSO Org. Shirt (2025)' },
     { src: 'assets/graphic/[G-2025]_CSUCC-EE.png', type: 'image', category: 'graphic', title: 'CSUCC Electrical Engineers (2025)' },
     { src: 'assets/graphic/[G-2025]_Zelle-Banner.png', type: 'image', category: 'graphic', title: 'Zelle Banner (2025)' },
     { src: 'assets/graphic/[G-2025]_FSUU-SSG-EXEC_HBD.png', type: 'image', category: 'graphic', title: 'FSUU SSG-EXEC HBD (2025)' },
