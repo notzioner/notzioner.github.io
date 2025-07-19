@@ -33,13 +33,13 @@ A business site by [@notzioner](https://github.com/notzioner)'s personal, school
 │   │   └── Portfolio (2018–present)
 │   ├── fonts/
 │   │   └── brick.woff
-│   ├── graphic/            # 30 graphic projects (2021–present)
-│   ├── illustration/       # 15 illustration projects (2020–present)
+│   ├── graphic/            # 32 graphic projects (2021–present)
+│   ├── illustration/       # 16 illustration projects (2020–present)
 │   ├── images/             # Logo, avatar, CV preview, tool and software icons, and commission board
 │   ├── js/
 │   │   ├── main.js         # JS for Creative Hub
 │   │   └── main2.js        # JS for Terms of Service
-│   └── motion/             # 6 motion projects (2022–2024)
+│   └── motion/             # 7 motion projects (2022–present)
 ```
 
 ---
