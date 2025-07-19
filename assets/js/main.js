@@ -152,7 +152,7 @@
     { src: 'assets/graphic/[G-2022]_Book-of-Proverbs.PNG', type: 'image', category: 'graphic', title: 'Book of Proverbs (2022)' },
     { src: 'assets/graphic/[G-2021]_OneHealth.png', type: 'image', category: 'graphic', title: 'OneHealth (2021)' },
 
-    { src: 'assets/motion/[M-2025]_Lineart-Rotoscope.MP4', type: 'video', category: 'motion', title: 'Lineart Rotoscope (2025)' },
+    { src: 'assets/motion/[M-2025]_Lineart-Rotoscope.mp4', type: 'video', category: 'motion', title: 'Lineart Rotoscope (2025)' },
     { src: 'assets/motion/[M-2024]_StephFilms.MP4', type: 'video', category: 'motion', title: 'StephFilms (2024)' },
     { src: 'assets/motion/[M-2024]_Smoochies.mp4', type: 'video', category: 'motion', title: 'Smoochies (2024)' },
     { src: 'assets/motion/[M-2023]_Sagutin-Mo-Ako.mp4', type: 'video', category: 'motion', title: 'Sagutin Mo Ako (2023)' },
