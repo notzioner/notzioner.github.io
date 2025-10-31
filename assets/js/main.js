@@ -103,7 +103,8 @@
 
   // -- PROJECTS (recent to oldest) --
   const images = [
-      { src: 'assets/illustration/[I-2025]_Back2School.png', type: 'image', category: 'illustration', title: 'Back to School (2025)' },
+    { src: 'assets/illustration/[I-2025]_124th-UDAYS-Invitation.png', type: 'image', category: 'illustration', title: '124th UDAYS Invitation (2025)' },
+    { src: 'assets/illustration/[I-2025]_Back2School.png', type: 'image', category: 'illustration', title: 'Back to School (2025)' },
     { src: 'assets/illustration/[I-2025]_Pride-Month.png', type: 'image', category: 'illustration', title: 'Pride Month (2025)' },
     { src: 'assets/illustration/[I-2025]_Zelle.PNG', type: 'image', category: 'illustration', title: 'Zelle (2025)' },
     { src: 'assets/illustration/[I-2025]_ANK.png', type: 'image', category: 'illustration', title: 'Araw ng Kagitingan (2025)' },
@@ -118,7 +119,19 @@
     { src: 'assets/illustration/[I-2020]_Sans.png', type: 'image', category: 'illustration', title: 'Sans (2020)' },
     { src: 'assets/illustration/[I-2020]_Phantoms.png', type: 'image', category: 'illustration', title: 'Phantoms (2020)' },
     { src: 'assets/illustration/[I-2020]_Withered.png', type: 'image', category: 'illustration', title: 'Withered (2020)' },
-
+    
+    { src: 'assets/graphic/[G-2025]_124th-UDAYS-Medal-Tally.png', type: 'image', category: 'graphic', title: '124th UDAYS Medal Tally (2025)' },
+    { src: 'assets/graphic/[G-2025]_Musical-Night_Trifold.png', type: 'image', category: 'graphic', title: 'Musical Fest Trifold (2025)' },
+    { src: 'assets/graphic/[G-2025]_UNight_Trifold.png', type: 'image', category: 'graphic', title: 'UNight Trifold (2025)' },
+    { src: 'assets/graphic/[G-2025]_Musical-Fest_Invitation.png', type: 'image', category: 'graphic', title: 'Musical Fest Invitation (2025)' },
+    { src: 'assets/graphic/[G-2025]_Uni-Gala_Invitation.png', type: 'image', category: 'graphic', title: 'Uni Gala Invitation (2025)' },
+    { src: 'assets/graphic/[G-2025]_124th-UDAYS-Mass-Demo-LED.png', type: 'image', category: 'graphic', title: '124th UDAYS MD (2025)' },
+    { src: 'assets/graphic/[G-2025]_124th-UDAYS-Opening-Ceremonies-LED.png', type: 'image', category: 'graphic', title: '124th UDAYS OC 2 (2025)' },
+    { src: 'assets/graphic/[G-2025]_124th-UDAYS-Opening-Ceremonies.png', type: 'image', category: 'graphic', title: '124th UDAYS OC 1 (2025)' },
+    { src: 'assets/graphic/[G-2025]_Advance-Games_Winner.png', type: 'image', category: 'graphic', title: 'Advance Games Winner (2025)' },
+    { src: 'assets/graphic/[G-2025]_Buwan-Ng-Wika.png', type: 'image', category: 'graphic', title: 'Buwan ng Wika (2025)' },
+    { src: 'assets/graphic/[G-2025]_Crossover-Invitation.png', type: 'image', category: 'graphic', title: 'Crossover Invitation (2025)' },
+    { src: 'assets/graphic/[G-2025]_Crossover-Countdown.png', type: 'image', category: 'graphic', title: 'Crossover Countdown (2025)' },
     { src: 'assets/graphic/[G-2025]_THMP-Org-Shirt.png', type: 'image', category: 'graphic', title: 'THMP LSG Org. Shirt (2025)' },
     { src: 'assets/graphic/[G-2025]_CSUCC-EE.png', type: 'image', category: 'graphic', title: 'CSUCC Electrical Engineers Banner (2025)' },
     { src: 'assets/graphic/[G-2025]_Zelle-Banner.png', type: 'image', category: 'graphic', title: 'Zelle Banner (2025)' },
@@ -152,6 +165,12 @@
     { src: 'assets/graphic/[G-2022]_Book-of-Proverbs.PNG', type: 'image', category: 'graphic', title: 'Book of Proverbs (2022)' },
     { src: 'assets/graphic/[G-2021]_OneHealth.png', type: 'image', category: 'graphic', title: 'OneHealth (2021)' },
 
+    { src: 'assets/motion/[M-2025]_124th-UDAYS-Mass-Demo-LED.mp4', type: 'video', category: 'motion', title: '124th UDAYS MD LED (2025)' },
+    { src: 'assets/motion/[M-2025]_124th-UDAYS-Opening-Ceremonies-LED.mp4', type: 'video', category: 'motion', title: '124th UDAYS OC LED (2025)' },
+    { src: 'assets/motion/[M-2025]_Squash-n-Stretch.mp4', type: 'video', category: 'motion', title: 'Squash and Stretch (2025)' },
+    { src: 'assets/motion/[M-2025]_Straight_Aheadn.mp4', type: 'video', category: 'motion', title: 'Straight Ahead (2025)' },
+    { src: 'assets/motion/[M-2025]_Anticipation.mp4', type: 'video', category: 'motion', title: 'Anticipation (2025)' },
+    { src: 'assets/motion/[M-2025]_Bouncing-Ball.mp4', type: 'video', category: 'motion', title: 'Bouncing Ball (2025)' },
     { src: 'assets/motion/[M-2025]_Lineart-Rotoscope.mp4', type: 'video', category: 'motion', title: 'Lineart Rotoscope (2025)' },
     { src: 'assets/motion/[M-2024]_StephFilms.MP4', type: 'video', category: 'motion', title: 'StephFilms (2024)' },
     { src: 'assets/motion/[M-2024]_Smoochies.mp4', type: 'video', category: 'motion', title: 'Smoochies (2024)' },
@@ -313,3 +332,4 @@
 
     sliderContainer.addEventListener('mouseenter', stopSlider);
     sliderContainer.addEventListener('mouseleave', startSlider);
+
