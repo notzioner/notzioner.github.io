@@ -129,7 +129,7 @@
     { src: 'assets/graphic/[G-2025]_124th-UDAYS-Mass-Demo-LED.png', type: 'image', category: 'graphic', title: '124th UDAYS MD (2025)' },
     { src: 'assets/graphic/[G-2025]_124th-UDAYS-Opening-Ceremonies-LED.png', type: 'image', category: 'graphic', title: '124th UDAYS Opening Ceremonies (2025)' },
     { src: 'assets/graphic/[G-2025]_Advance-Games_Winner.png', type: 'image', category: 'graphic', title: 'Advance Games Winner (2025)' },
-    { src: 'assets/graphic/[G-2025]_Buwan-Ng-Wika.png', type: 'image', category: 'graphic', title: 'Buwan ng Wika (2025)' },
+    { src: 'assets/graphic/[G-2025]_BNW.PNG', type: 'image', category: 'graphic', title: 'Buwan ng Wika (2025)' },
     { src: 'assets/graphic/[G-2025]_Crossover-Invitation.png', type: 'image', category: 'graphic', title: 'Crossover Invitation (2025)' },
     { src: 'assets/graphic/[G-2025]_Crossover-Countdown.png', type: 'image', category: 'graphic', title: 'Crossover Countdown (2025)' },
     { src: 'assets/graphic/[G-2025]_THMP-Org-Shirt.png', type: 'image', category: 'graphic', title: 'THMP LSG Org. Shirt (2025)' },
@@ -339,6 +339,7 @@
 
     sliderContainer.addEventListener('mouseenter', stopSlider);
     sliderContainer.addEventListener('mouseleave', startSlider);
+
 
 
 
