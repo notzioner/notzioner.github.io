@@ -33,13 +33,13 @@ A business site by [@notzioner](https://github.com/notzioner)'s personal, school
 │   │   └── Portfolio (2018–present)
 │   ├── fonts/
 │   │   └── brick.woff
-│   ├── graphic/            # 32 graphic projects (2021–present)
-│   ├── illustration/       # 16 illustration projects (2020–present)
-│   ├── images/             # Logo, avatar, CV preview, tool and software icons, and commission board
+│   ├── graphic/            # 2021–present
+│   ├── illustration/       # 2020–present
+│   ├── images/             # Logo, avatar, resume preview, tool and software icons, and commission board
 │   ├── js/
 │   │   ├── main.js         # JS for Creative Hub
 │   │   └── main2.js        # JS for Terms of Service
-│   └── motion/             # 7 motion projects (2022–present)
+│   └── motion/             # 2022–present
 ```
 
 ---
@@ -57,7 +57,7 @@ A business site by [@notzioner](https://github.com/notzioner)'s personal, school
 - **Service**
   - Terms of Service
   - Portfolio (Selected Works)
-  - Curriculum Vitae
+  - Resume
   - Project Showcase
   - Social Media Links
   - Discord Server Invite
@@ -87,4 +87,4 @@ A business site by [@notzioner](https://github.com/notzioner)'s personal, school
 
 ---
 
-© 2025 Miss Zelle | Creative Hub
+© 2025 Miss Zelle | Creative Hub (Date Updated: Dec 27, 2025)
