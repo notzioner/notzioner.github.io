@@ -120,8 +120,8 @@
     { src: 'assets/illustration/[I-2020]_Phantoms.png', type: 'image', category: 'illustration', title: 'Phantoms (2020)' },
     { src: 'assets/illustration/[I-2020]_Withered.png', type: 'image', category: 'illustration', title: 'Withered (2020)' },
 
-    { src: 'assets/graphic/[G-2025]_DOI-MYO.png', type: 'image', category: 'graphic', title: 'DOI Meet Your Officers (2025)' },
-    { src: 'assets/graphic/[G-2025]_MedalTally-2925.png', type: 'image', category: 'graphic', title: '124th UDAYS Medal Tally (2025)' },
+    { src: 'assets/graphic/[G-2025]_DOI-MYO.PNG', type: 'image', category: 'graphic', title: 'DOI Meet Your Officers (2025)' },
+    { src: 'assets/graphic/[G-2025]_MedalTally-2925.PNG', type: 'image', category: 'graphic', title: '124th UDAYS Medal Tally (2025)' },
     { src: 'assets/graphic/[G-2025]_Musical-Night_Trifold.png', type: 'image', category: 'graphic', title: 'Musical Fest Trifold (2025)' },
     { src: 'assets/graphic/[G-2025]_UNight_Trifold.png', type: 'image', category: 'graphic', title: 'UNight Trifold (2025)' },
     { src: 'assets/graphic/[G-2025]_Musical-Fest_Invitation.png', type: 'image', category: 'graphic', title: 'Musical Fest Invitation (2025)' },
@@ -133,13 +133,13 @@
     { src: 'assets/graphic/[G-2025]_Crossover-Invitation.png', type: 'image', category: 'graphic', title: 'Crossover Invitation (2025)' },
     { src: 'assets/graphic/[G-2025]_Crossover-Countdown.png', type: 'image', category: 'graphic', title: 'Crossover Countdown (2025)' },
     { src: 'assets/graphic/[G-2025]_THMP-Org-Shirt.png', type: 'image', category: 'graphic', title: 'THMP LSG Org. Shirt (2025)' },
-    { src: 'assets/graphic/[G-2025]_OUAW.png', type: 'image', category: 'graphic', title: 'Once Upon A Wonderland (2025)' },
+    { src: 'assets/graphic/[G-2025]_OUAW.PNG', type: 'image', category: 'graphic', title: 'Once Upon A Wonderland (2025)' },
     { src: 'assets/graphic/[G-2025]_CSUCC-EE.png', type: 'image', category: 'graphic', title: 'CSUCC Electrical Engineers Banner (2025)' },
     { src: 'assets/graphic/[G-2025]_Zelle-Banner.png', type: 'image', category: 'graphic', title: 'Zelle Banner (2025)' },
     { src: 'assets/graphic/[G-2025]_FSUU-SSG-EXEC_HBD.png', type: 'image', category: 'graphic', title: 'FSUU SSG-EXEC HBD (2025)' },
     { src: 'assets/graphic/[G-2025]_Lens-Ready.png', type: 'image', category: 'graphic', title: 'Lens Ready (2025)' },
     { src: 'assets/graphic/[G-2025]_Pictorial-Sched.PNG', type: 'image', category: 'graphic', title: 'Pictorial Schedule (2025)' },
-    { src: 'assets/graphic/[G-2025]_BPEDSOC.png', type: 'image', category: 'graphic', title: 'BPED Society (2025)' }, 
+    { src: 'assets/graphic/[G-2025]_BPEDSOC.PNG', type: 'image', category: 'graphic', title: 'BPED Society (2025)' }, 
     { src: 'assets/graphic/[G-2025]_Join-The-Pub.png', type: 'image', category: 'graphic', title: 'Join The Pub (2025)' },
     { src: 'assets/graphic/[G-2025]_Music_Album_Cover.png', type: 'image', category: 'graphic', title: 'Music Album Cover (2025)' },
     { src: 'assets/graphic/[G-2025]_Rizal-and-Leonor.PNG', type: 'image', category: 'graphic', title: 'Rizal and Leonor (2025)' },
@@ -174,10 +174,6 @@
     { src: 'assets/motion/[M-2025]_ANIMATION1.mp4', type: 'video', category: 'motion', title: 'Bouncing Ball (2025)' },
     { src: 'assets/motion/[M-2025]_124th-UDAYS-Mass-Demo-LED.mp4', type: 'video', category: 'motion', title: '124th UDAYS MD LED (2025)' },
     { src: 'assets/motion/[M-2025]_124th-UDAYS-Opening-Ceremonies-LED.mp4', type: 'video', category: 'motion', title: '124th UDAYS OC LED (2025)' },
-    { src: 'assets/motion/[M-2025]_Squash-n-Stretch.mp4', type: 'video', category: 'motion', title: 'Squash and Stretch (2025)' },
-    { src: 'assets/motion/[M-2025]_Straight_Aheadn.mp4', type: 'video', category: 'motion', title: 'Straight Ahead (2025)' },
-    { src: 'assets/motion/[M-2025]_Anticipation.mp4', type: 'video', category: 'motion', title: 'Anticipation (2025)' },
-    { src: 'assets/motion/[M-2025]_Bouncing-Ball.mp4', type: 'video', category: 'motion', title: 'Bouncing Ball (2025)' },
     { src: 'assets/motion/[M-2025]_Lineart-Rotoscope.mp4', type: 'video', category: 'motion', title: 'Lineart Rotoscope (2025)' },
     { src: 'assets/motion/[M-2024]_StephFilms.MP4', type: 'video', category: 'motion', title: 'StephFilms (2024)' },
     { src: 'assets/motion/[M-2024]_Smoochies.mp4', type: 'video', category: 'motion', title: 'Smoochies (2024)' },
@@ -339,6 +335,7 @@
 
     sliderContainer.addEventListener('mouseenter', stopSlider);
     sliderContainer.addEventListener('mouseleave', startSlider);
+
 
 
 
