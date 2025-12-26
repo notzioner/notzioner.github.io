@@ -30,7 +30,7 @@ A business site by [@notzioner](https://github.com/notzioner)'s personal, school
 │   │   └── styles2.css     # Styles for Terms of Service
 │   ├── files/
 │   │   ├── Curriculum Vitae (2018–present)
-│   │   └── Portfolio (2018–present)
+│   │   └── Portfolio (2018–2025)
 │   ├── fonts/
 │   │   └── brick.woff
 │   ├── graphic/            # 2021–present
