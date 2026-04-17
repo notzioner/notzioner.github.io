@@ -103,6 +103,8 @@
 
   // -- PROJECTS (recent to oldest) --
   const images = [
+    { src: 'assets/illustration/[I-2026]_CLAYGO.png', type: 'image', category: 'illustration', title: 'CLAYGO (2026)' },
+    { src: 'assets/illustration/[I-2026]_ANK.PNG', type: 'image', category: 'illustration', title: 'Araw ng Kagitingan (2026)' },
     { src: 'assets/illustration/[I-2025]_124th-UDAYS-Invitation.png', type: 'image', category: 'illustration', title: '124th UDAYS Invitation (2025)' },
     { src: 'assets/illustration/[I-2025]_Back2School.png', type: 'image', category: 'illustration', title: 'Back to School (2025)' },
     { src: 'assets/illustration/[I-2025]_Pride-Month.png', type: 'image', category: 'illustration', title: 'Pride Month (2025)' },
@@ -167,6 +169,11 @@
     { src: 'assets/graphic/[G-2022]_Book-of-Proverbs.PNG', type: 'image', category: 'graphic', title: 'Book of Proverbs (2022)' },
     { src: 'assets/graphic/[G-2021]_OneHealth.png', type: 'image', category: 'graphic', title: 'OneHealth (2021)' },
 
+    { src: 'assets/motion/[M-2026]_Dynamic-Posing.mp4', type: 'video', category: 'motion', title: 'Dynamic Posing (2026)' },
+    { src: 'assets/motion/[M-2026]_Pendulum.mp4', type: 'video', category: 'motion', title: 'Pendulum (2026)' },
+    { src: 'assets/motion/[M-2026]_Surprised-Squirrel', type: 'video', category: 'motion', title: 'Surprised Jump (2026)' },
+    { src: 'assets/motion/[M-2026]_Squirrel-Jump.mp4', type: 'video', category: 'motion', title: 'Squirrel Jump (2026)' },
+    { src: 'assets/motion/[M-2026]_Ball-Obstacle', type: 'video', category: 'motion', title: 'Ball Obstacle (2026)' },
     { src: 'assets/motion/[M-2025]_ANIMATION5.mp4', type: 'video', category: 'motion', title: 'Hazbin Hotel Fan Animation (2025)' },
     { src: 'assets/motion/[M-2025]_ANIMATION4.mp4', type: 'video', category: 'motion', title: 'Staging (2025)' },
     { src: 'assets/motion/[M-2025]_ANIMATION3.mp4', type: 'video', category: 'motion', title: 'Straight Ahead (2025)' },
