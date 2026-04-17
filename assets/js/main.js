@@ -171,9 +171,9 @@
 
     { src: 'assets/motion/[M-2026]_Dynamic-Posing.mp4', type: 'video', category: 'motion', title: 'Dynamic Posing (2026)' },
     { src: 'assets/motion/[M-2026]_Pendulum.mp4', type: 'video', category: 'motion', title: 'Pendulum (2026)' },
-    { src: 'assets/motion/[M-2026]_Surprised-Squirrel', type: 'video', category: 'motion', title: 'Surprised Jump (2026)' },
+    { src: 'assets/motion/[M-2026]_Surprised-Squirrel.mp4', type: 'video', category: 'motion', title: 'Surprised Jump (2026)' },
     { src: 'assets/motion/[M-2026]_Squirrel-Jump.mp4', type: 'video', category: 'motion', title: 'Squirrel Jump (2026)' },
-    { src: 'assets/motion/[M-2026]_Ball-Obstacle', type: 'video', category: 'motion', title: 'Ball Obstacle (2026)' },
+    { src: 'assets/motion/[M-2026]_Ball-Obstacle.mp4', type: 'video', category: 'motion', title: 'Ball Obstacle (2026)' },
     { src: 'assets/motion/[M-2025]_ANIMATION5.mp4', type: 'video', category: 'motion', title: 'Hazbin Hotel Fan Animation (2025)' },
     { src: 'assets/motion/[M-2025]_ANIMATION4.mp4', type: 'video', category: 'motion', title: 'Staging (2025)' },
     { src: 'assets/motion/[M-2025]_ANIMATION3.mp4', type: 'video', category: 'motion', title: 'Straight Ahead (2025)' },
