@@ -124,8 +124,9 @@
 
     { src: 'assets/graphic/[G-2026]_Grad2.png', type: 'image', category: 'graphic', title: 'Graduating Officers 2 (2026)' },
     { src: 'assets/graphic/[G-2026]_Grad1.png', type: 'image', category: 'graphic', title: 'Graduating Officers 1 (2026)' },
-    { src: 'assets/graphic/[G-2026]_Labor-Day.PNG', type: 'image', category: 'graphic', title: 'Labor Day (2026)' },
+    { src: 'assets/graphic/[G-2026]_Turnover-Trifold.png', type: 'image', category: 'graphic', title: 'Turnover Trifold (2026)' },
     { src: 'assets/graphic/[G-2026]_CES.png', type: 'image', category: 'graphic', title: 'CES Activity Book (2026)' },
+    { src: 'assets/graphic/[G-2026]_Labor-Day.PNG', type: 'image', category: 'graphic', title: 'Labor Day (2026)' },
     { src: 'assets/graphic/[G-2026]_LOST.png', type: 'image', category: 'graphic', title: 'LOST: The Last Watcher (2026)' },
     { src: 'assets/graphic/[G-2025]_Islaline.png', type: 'image', category: 'graphic', title: 'Islaline (2025)' },
     { src: 'assets/graphic/[G-2025]_DOI-MYO.png', type: 'image', category: 'graphic', title: 'DOI Meet Your Officers (2025)' },
@@ -354,14 +355,3 @@
 
     sliderContainer.addEventListener('mouseenter', stopSlider);
     sliderContainer.addEventListener('mouseleave', startSlider);
-
-
-
-
-
-
-
-
-
-
-
