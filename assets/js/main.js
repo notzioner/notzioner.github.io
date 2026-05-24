@@ -175,7 +175,8 @@
     { src: 'assets/graphic/[G-2022]_Internet-Safety.PNG', type: 'image', category: 'graphic', title: 'Internet Safety (2022)' },
     { src: 'assets/graphic/[G-2022]_Book-of-Proverbs.PNG', type: 'image', category: 'graphic', title: 'Book of Proverbs (2022)' },
     { src: 'assets/graphic/[G-2021]_OneHealth.png', type: 'image', category: 'graphic', title: 'OneHealth (2021)' },
-    
+
+    { src: 'assets/motion/[M-2026]_LOST-Trailer.mp4', type: 'video', category: 'motion', title: 'LOST Trailer (2026)' },
     { src: 'assets/motion/[M-2026]_Character Movement.mp4', type: 'video', category: 'motion', title: 'Character Movement (2026)' },
     { src: 'assets/motion/[M-2026]_Single Punch.mp4', type: 'video', category: 'motion', title: 'Single Punch (2026)' },
     { src: 'assets/motion/[M-2026]_Walk Cycle.mp4', type: 'video', category: 'motion', title: 'Walk Cycle (2026)' },
