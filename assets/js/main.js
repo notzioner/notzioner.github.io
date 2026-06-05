@@ -103,6 +103,7 @@
 
   // -- PROJECTS (recent to oldest) --
   const images = [
+    { src: 'assets/illustration/[I-2026]_Pride-Month.png', type: 'image', category: 'illustration', title: 'Pride Month (2026)' },
     { src: 'assets/illustration/[I-2026]_CLAYGO.png', type: 'image', category: 'illustration', title: 'CLAYGO (2026)' },
     { src: 'assets/illustration/[I-2026]_ANK.PNG', type: 'image', category: 'illustration', title: 'Araw ng Kagitingan (2026)' },
     { src: 'assets/illustration/[I-2025]_124th-UDAYS-Invitation.png', type: 'image', category: 'illustration', title: '124th UDAYS Invitation (2025)' },
