@@ -136,7 +136,7 @@
     { src: 'assets/graphic/[G-2026]_Everwyn-Logo.png', type: 'image', category: 'graphic', title: 'Everwyn Logo (2026)' },
     { src: 'assets/graphic/[G-2026]_FSUU-SSG_TypeB-Shirt.png', type: 'image', category: 'graphic', title: 'SSG Type B Shirt (2026)' },
     { src: 'assets/graphic/[G-2026]_FSUU-SSG_TypeB-Shirt.png', type: 'image', category: 'graphic', title: 'SSG Type B Shirt (2026)' },
-    { src: 'assets/graphic/[G-2026]_Buwan-Ng-Wika.png', type: 'image', category: 'graphic', title: 'Buwan ng Wika (2026))' },
+    { src: 'assets/graphic/[G-2026]_Buwan-Ng-Wika.png', type: 'image', category: 'graphic', title: 'Buwan ng Wika (2026)' },
     { src: 'assets/graphic/[G-2026]_Grad2.png', type: 'image', category: 'graphic', title: 'Graduating Officers 2 (2026)' },
     { src: 'assets/graphic/[G-2026]_Grad1.png', type: 'image', category: 'graphic', title: 'Graduating Officers 1 (2026)' },
     { src: 'assets/graphic/[G-2026]_Turnover-Trifold.png', type: 'image', category: 'graphic', title: 'Turnover Trifold (2026)' },
