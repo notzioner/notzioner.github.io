@@ -25,7 +25,7 @@
 
 // -- TYPING EFFECT --
    var typingEffect = new Typed(".typedText",{
-      strings : ["Create","Collaborate","Inspire"],
+      strings : ["Multimedia Artist","Voice Impressionist","Content Creator"],
       loop : true,
       typeSpeed : 100, 
       backSpeed : 80,
