@@ -197,9 +197,9 @@
 // -- ANIMATION --
     // -- Blender & SFM --
     { src: 'assets/motion/[M-2026]_Blender-Twisted-Corridor.mp4', type: 'video', category: 'motion', title: 'Twisted Corridor (2026)' },
-    { src: 'assets/motion/[M-2026]_Blender-Desert-Scimitar.png', type: 'video', category: 'motion', title: 'Floating Room (2026)' },
+    { src: 'assets/motion/[M-2026]_Blender-Desert-Scimitar.png', type: 'video', category: 'motion', title: 'Desert Scimitar (2026)' },
     { src: 'assets/motion/[M-2026]_Blender-DIVOOM.mp4', type: 'video', category: 'motion', title: 'Divoom Ditoo (2026)' },
-    { src: 'assets/motion/[M-2026]_Blender-Floating-Room.mp4', type: 'video', category: 'motion', title: 'Desert Scimitar (2026)' },
+    { src: 'assets/motion/[M-2026]_Blender-Floating-Room.mp4', type: 'video', category: 'motion', title: 'Floating Room (2026)' },
     { src: 'assets/motion/[M-2026]_Blender-Isometric-Room-1-3.png', type: 'video', category: 'motion', title: 'Isometric Room 3 (2026)' },
     { src: 'assets/motion/[M-2026]_Blender-Isometric-Room-1-2.png', type: 'video', category: 'motion', title: 'Isometric Room 2 (2026)' },
     { src: 'assets/motion/[M-2026]_Blender-Isometric-Room-1.png', type: 'video', category: 'motion', title: 'Isometric Room 1 (2026)' },
