@@ -104,7 +104,28 @@
   // -- PROJECTS (recent to oldest, by category) --
   const images = [
 
-// -- DESIGN --
+// -- DESIGN --      
+    // -- Logo Layout --
+    { src: 'assets/illustration/[I-2025]_BPEDSOC.PNG', type: 'image', category: 'illustration', title: 'BPED Society (2025)' },
+    { src: 'assets/illustration/[I-2023]_Cafe-Select.PNG', type: 'image', category: 'illustration', title: 'Café Select (2023)' },
+      
+    // -- Shirt Layout --
+    { src: 'assets/illustration/[I-2025]_CSP-Days_C2-Shirt.png', type: 'image', category: 'illustration', title: 'CSP DAYS C2 Shirt (2025)' },
+    { src: 'assets/illustration/[I-2025]_FSUU-DC_Org-Shirt.png', type: 'image', category: 'illustration', title: 'FSUU DC Org. Shirt (2025)' },
+      
+    // -- PubMat Layout --
+    { src: 'assets/illustration/[I-2025]_Islaline-Layout.png', type: 'image', category: 'illustration', title: 'Islaline Layout (2025)' },
+    { src: 'assets/illustration/[I-2025]_CSUCC-EE.png', type: 'image', category: 'illustration', title: 'CSUCC EE Banner (2025)' },
+    { src: 'assets/illustration/[I-2025]_124th UDAYS-Medal-Tally.png', type: 'image', category: 'illustration', title: 'Medal Tally (2025)' },
+    { src: 'assets/illustration/[I-2025]_Advance-Games_Winner.png', type: 'image', category: 'illustration', title: 'Advance Games Winner (2025)' },
+    { src: 'assets/illustration/[I-2025]_124th-UDAYS-OC.PNG', type: 'image', category: 'illustration', title: '124th UDAYS OC (2025)' },
+    { src: 'assets/illustration/[I-2025]_BNW.PNG', type: 'image', category: 'illustration', title: 'Buwan ng Wika (2025)' },
+    { src: 'assets/illustration/[I-2025]_Crossover-Invitation.png', type: 'image', category: 'illustration', title: 'Crossover Invitation (2025)' },
+    { src: 'assets/illustration/[I-2025]_FSUU-SSG-EXEC_HBD.png', type: 'image', category: 'illustration', title: 'FSUU SSG-Exec HBD (2025)' },
+    { src: 'assets/illustration/[I-2025]_DOI-MYO.png', type: 'image', category: 'illustration', title: 'DOI Officers (2025)' },
+    { src: 'assets/illustration/[I-2025]_Lens-Ready.png', type: 'image', category: 'illustration', title: 'Lens Ready (2025)' },
+    { src: 'assets/illustration/[I-2025]_Join-The-Pub.png', type: 'image', category: 'illustration', title: 'Join The Pub (2025)' },
+      
     // -- Illustration --
     { src: 'assets/illustration/[I-2026]_125th-UDAYS-Invitation.png', type: 'image', category: 'illustration', title: '125th UDAYS Invitation (2026)' },
     { src: 'assets/illustration/[I-2026]_Pride-Month.png', type: 'image', category: 'illustration', title: 'Pride Month (2026)' },
@@ -123,10 +144,7 @@
     { src: 'assets/illustration/[I-2021]_ToxicPioner.png', type: 'image', category: 'illustration', title: 'ToxicPioner (2021)' },
     { src: 'assets/illustration/[I-2021]_Violet-Gamer.png', type: 'image', category: 'illustration', title: 'Violet Gamer (2021)' },
     { src: 'assets/illustration/[I-2021]_Sara.png', type: 'image', category: 'illustration', title: 'Sara (2021)' },
-    { src: 'assets/illustration/[I-2020]_Sans.png', type: 'image', category: 'illustration', title: 'Sans (2020)' },
-    { src: 'assets/illustration/[I-2020]_Phantoms.png', type: 'image', category: 'illustration', title: 'Phantoms (2020)' },
-    { src: 'assets/illustration/[I-2020]_Withered.png', type: 'image', category: 'illustration', title: 'Withered (2020)' },
-
+      
 // -- PRODUCTION --
     { src: 'assets/graphic/[G-2026]_Grad-Selection.png', type: 'image', category: 'graphic', title: 'Veritas Grad. Song (2026)' },      
     { src: 'assets/graphic/[G-2026]_1st-Meeting.png', type: 'image', category: 'graphic', title: 'Veritas 1st Meeting (2026)' },      
@@ -179,30 +197,21 @@
     { src: 'assets/graphic/[G-2025]_TTWE.PNG', type: 'image', category: 'graphic', title: 'Auditions 1 (2025)' },
     { src: 'assets/graphic/[G-2024]_TBS-Lattes.PNG', type: 'image', category: 'graphic', title: 'The Bean Scene Lattes (2024)' },
     { src: 'assets/graphic/[G-2024]_TBS-Cookies.PNG', type: 'image', category: 'graphic', title: 'The Bean Scene Cookies (2024)' },
-    { src: 'assets/graphic/[G-2023]_STEM-Field-Careers.png', type: 'image', category: 'graphic', title: 'STEM Field Careers (2023)' },
-    { src: 'assets/graphic/[G-2023]_Media-Brochure.png', type: 'image', category: 'graphic', title: 'Media Brochure (2023)' },
-    { src: 'assets/graphic/[G-2023]_Krosword-Puzzle.PNG', type: 'image', category: 'graphic', title: 'Krosword Puzzle (2023)' },
-    { src: 'assets/graphic/[G-2023]_CS_Flyer.PNG', type: 'image', category: 'graphic', title: 'Café Select Flyer (2023)' },
-    { src: 'assets/graphic/[G-2023]_Café-Select.png', type: 'image', category: 'graphic', title: 'Café Select (2023)' },
-    { src: 'assets/graphic/[G-2023]_ByteStudios.png', type: 'image', category: 'graphic', title: 'Byte Studios (2023)' },
-    { src: 'assets/graphic/[G-2023]_Buhay-ng-Estudyante.png', type: 'image', category: 'graphic', title: 'Buhay ng Estudyante (2023)' },
-    { src: 'assets/graphic/[G-2022]_Wika-Timeline.PNG', type: 'image', category: 'graphic', title: 'Wika Timeline (2022)' },
-    { src: 'assets/graphic/[G-2022]_Stop-Smoking.PNG', type: 'image', category: 'graphic', title: 'Stop Smoking (2022)' },
-    { src: 'assets/graphic/[G-2022]_Internet-Safety.PNG', type: 'image', category: 'graphic', title: 'Internet Safety (2022)' },
-    { src: 'assets/graphic/[G-2022]_Book-of-Proverbs.PNG', type: 'image', category: 'graphic', title: 'Book of Proverbs (2022)' },
-    { src: 'assets/graphic/[G-2021]_OneHealth.png', type: 'image', category: 'graphic', title: 'OneHealth (2021)' },
-
+      
 // -- ANIMATION --
-    // -- Blender --
+    // -- Blender & SFM --
     { src: 'assets/motion/[M-2026]_Blender-Twisted-Corridor.mp4', type: 'video', category: 'motion', title: 'Twisted Corridor (2026)' },
     { src: 'assets/motion/[M-2026]_Blender-Desert-Scimitar.png', type: 'video', category: 'motion', title: 'Floating Room (2026)' },
-    { src: 'assets/motion/[M-2026]_Blender-DIVOOM.mp4', type: 'video', category: 'motion', title: 'DIVOOM DITOO (2026)' },
+    { src: 'assets/motion/[M-2026]_Blender-DIVOOM.mp4', type: 'video', category: 'motion', title: 'Divoom Ditoo (2026)' },
     { src: 'assets/motion/[M-2026]_Blender-Floating-Room.mp4', type: 'video', category: 'motion', title: 'Desert Scimitar (2026)' },
-    { src: 'assets/motion/[M-2026]_Blender-Isometric-Room-1.png', type: 'video', category: 'motion', title: 'Isometric Room 1 (2026)' },
-    { src: 'assets/motion/[M-2026]_Blender-Isometric-Room-1-2.png', type: 'video', category: 'motion', title: 'Isometric Room 2 (2026)' },
     { src: 'assets/motion/[M-2026]_Blender-Isometric-Room-1-3.png', type: 'video', category: 'motion', title: 'Isometric Room 3 (2026)' },
+    { src: 'assets/motion/[M-2026]_Blender-Isometric-Room-1-2.png', type: 'video', category: 'motion', title: 'Isometric Room 2 (2026)' },
+    { src: 'assets/motion/[M-2026]_Blender-Isometric-Room-1.png', type: 'video', category: 'motion', title: 'Isometric Room 1 (2026)' },
+    { src: 'assets/motion/[M-2020]_Withered.png', type: 'video', category: 'motion', title: 'Withered (2020)' },
+    { src: 'assets/motion/[M-2020]_Phantom.png', type: 'video', category: 'motion', title: 'Phantom (2020)' },
+    { src: 'assets/motion/[M-2020]_Sans.png', type: 'video', category: 'motion', title: 'Sans (2020)' },
       
-    // -- 3D --
+    // -- 3D Animation --
     { src: 'assets/motion/[M-2026]_Character Movement.mp4', type: 'video', category: 'motion', title: 'Character Movement (2026)' },
     { src: 'assets/motion/[M-2026]_Single Punch.mp4', type: 'video', category: 'motion', title: 'Single Punch (2026)' },
     { src: 'assets/motion/[M-2026]_Walk Cycle.mp4', type: 'video', category: 'motion', title: 'Walk Cycle (2026)' },
@@ -214,7 +223,7 @@
     { src: 'assets/motion/[M-2026]_Ball-Obstacle.mp4', type: 'video', category: 'motion', title: 'Ball Obstacle (2026)' },
     { src: 'assets/motion/[M-2026]_Different Ball Bounce.mp4', type: 'video', category: 'motion', title: 'Different Ball Bounce (2026)' },
       
-    // -- 2D --
+    // -- 2D Animation --
     { src: 'assets/motion/[M-2026]_Space Invaders.mp4', type: 'video', category: 'motion', title: 'Space Invaders (2026)' },
     { src: 'assets/motion/[M-2026]_OC-Rig.mp4', type: 'video', category: 'motion', title: 'OC Rig (2026)' },
     { src: 'assets/motion/[M-2026]_Lip-Sync.mp4', type: 'video', category: 'motion', title: 'Lip-Sync (2026)' },
@@ -238,7 +247,7 @@
     { src: 'assets/motion/[M-2026]_Cocktails.mp4', type: 'video', category: 'motion', title: 'Cocktails (2026)' },
     { src: 'assets/motion/[M-2026]_Google.mp4', type: 'video', category: 'motion', title: 'Google (2026)' },
     { src: 'assets/motion/[M-2026]_Fortnite.mp4', type: 'video', category: 'motion', title: 'Fortnite (2026)' },
-    { src: 'assets/motion/[M-2026]_Cafe Select.mp4', type: 'video', category: 'motion', title: 'Café Select (2026)' },
+    { src: 'assets/motion/[M-2026]_Cafe Select.mp4', type: 'video', category: 'motion', title: 'Café Select Ad (2026)' },
     { src: 'assets/motion/[M-2024]_StephFilms.MP4', type: 'video', category: 'motion', title: 'StephFilms (2024)' },
     { src: 'assets/motion/[M-2024]_Smoochies.mp4', type: 'video', category: 'motion', title: 'Smoochies (2024)' },
     { src: 'assets/motion/[M-2023]_B-Lotion-Products.mp4', type: 'video', category: 'motion', title: 'Body Lotion Products (2023)' },
