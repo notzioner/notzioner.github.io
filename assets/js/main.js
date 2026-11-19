@@ -187,8 +187,12 @@
     { src: 'assets/illustration/[I-2021]_Sara.png', type: 'image', category: 'illustration', title: 'Sara (2021)' },
       
 // -- PRODUCTION --
-    { src: 'assets/graphic/[G-2026]_Grad-Selection.png', type: 'image', category: 'graphic', title: 'Veritas Grad. Song (2026)' },      
-    { src: 'assets/graphic/[G-2026]_1st-Meeting.png', type: 'image', category: 'graphic', title: 'Veritas 1st Meeting (2026)' },      
+    { src: 'assets/graphic/[G-2026]_Samyang-Buldak.mp4', type: 'image', category: 'graphic', title: 'Samyang Buldak (2026)' },     
+    { src: 'assets/graphic/[G-2026]_Everyone-Is-Here.mp4', type: 'image', category: 'graphic', title: 'Everyone Is Here (2026)' },      
+    { src: 'assets/graphic/[G-2026]_Lucky-Me.mp4', type: 'image', category: 'graphic', title: 'Lucky Me (2026)' },
+    { src: 'assets/graphic/[G-2025]_EMC-Life.mp4', type: 'image', category: 'graphic', title: 'EMC Life (2025)' },   
+    { src: 'assets/graphic/[G-2025]_Frostie.mp4', type: 'image', category: 'graphic', title: 'Frostie (2025)' },     
+    { src: 'assets/graphic/[G-2025]_Narcissus-&-Echo.mp4', type: 'image', category: 'graphic', title: 'Narcissus & Echo (2025)' }, 
       
 // -- ANIMATION --
     // -- Blender & SFM --
