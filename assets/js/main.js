@@ -101,12 +101,11 @@
   // -- GALLERY CARD ANIMATION --
   sr.reveal('.card', { interval: 150 });
 
-  // -- PROJECTS (recent to oldest) --
+  // -- PROJECTS (recent to oldest, by category) --
   const images = [
 
 // -- DESIGN --
-    { src: 'assets/illustration/[I-2026]_Blender-Divoom.png', type: 'image', category: 'illustration', title: 'Divoom (2026)' },
-    { src: 'assets/illustration/[I-2026]_Blender-Isometric-Room.png', type: 'image', category: 'illustration', title: 'Isometric Room (2026)' },
+    // -- Illustration --
     { src: 'assets/illustration/[I-2026]_125th-UDAYS-Invitation.png', type: 'image', category: 'illustration', title: '125th UDAYS Invitation (2026)' },
     { src: 'assets/illustration/[I-2026]_Pride-Month.png', type: 'image', category: 'illustration', title: 'Pride Month (2026)' },
     { src: 'assets/illustration/[I-2026]_CLAYGO.png', type: 'image', category: 'illustration', title: 'CLAYGO (2026)' },
@@ -194,24 +193,16 @@
     { src: 'assets/graphic/[G-2021]_OneHealth.png', type: 'image', category: 'graphic', title: 'OneHealth (2021)' },
 
 // -- ANIMATION --
-    // -- BLENDER --
+    // -- Blender --
+    { src: 'assets/motion/[M-2026]_Blender-Twisted-Corridor.mp4', type: 'video', category: 'motion', title: 'Twisted Corridor (2026)' },
     { src: 'assets/motion/[M-2026]_Blender-Desert-Scimitar.png', type: 'video', category: 'motion', title: 'Floating Room (2026)' },
     { src: 'assets/motion/[M-2026]_Blender-DIVOOM.mp4', type: 'video', category: 'motion', title: 'DIVOOM DITOO (2026)' },
     { src: 'assets/motion/[M-2026]_Blender-Floating-Room.mp4', type: 'video', category: 'motion', title: 'Desert Scimitar (2026)' },
     { src: 'assets/motion/[M-2026]_Blender-Isometric-Room-1.png', type: 'video', category: 'motion', title: 'Isometric Room 1 (2026)' },
     { src: 'assets/motion/[M-2026]_Blender-Isometric-Room-1-2.png', type: 'video', category: 'motion', title: 'Isometric Room 2 (2026)' },
+    { src: 'assets/motion/[M-2026]_Blender-Isometric-Room-1-3.png', type: 'video', category: 'motion', title: 'Isometric Room 3 (2026)' },
       
-    // -- MOGRAPH --
-    { src: 'assets/motion/[M-2026]_MoGraph-Stretch.mp4', type: 'video', category: 'motion', title: 'Stretch (2026)' },
-    { src: 'assets/motion/[M-2026]_MoGraph-Space.mp4', type: 'video', category: 'motion', title: 'Space (2026)' },
-    { src: 'assets/motion/[M-2026]_MoGraph-CITEC.mp4', type: 'video', category: 'motion', title: 'CITEC (2026)' },
-    { src: 'assets/motion/[M-2026]_MoGraph-Google.mp4', type: 'video', category: 'motion', title: 'Google (2026)' },
-    { src: 'assets/motion/[M-2026]_MoGraph-Fortnite.mp4', type: 'video', category: 'motion', title: 'Fortnite (2026)' },
-    { src: 'assets/motion/[M-2026]_MoGraph-Ad-Poster.mp4', type: 'video', category: 'motion', title: 'Ad Poster (2026)' },
-    { src: 'assets/motion/[M-2026]_Timing-n-Spacing.mp4', type: 'video', category: 'motion', title: 'Timing & Spacing (2026)' },
-    { src: 'assets/motion/[M-2026]_Head-Turn.mp4', type: 'video', category: 'motion', title: 'Head Turn (2026)' },
-    { src: 'assets/motion/[M-2026]_Horizontal-Ball.mp4', type: 'video', category: 'motion', title: 'Horizontal Ball (2026)' },
-    { src: 'assets/motion/[M-2026]_LOST-Trailer.mp4', type: 'video', category: 'motion', title: 'LOST Trailer (2026)' },
+    // -- 3D --
     { src: 'assets/motion/[M-2026]_Character Movement.mp4', type: 'video', category: 'motion', title: 'Character Movement (2026)' },
     { src: 'assets/motion/[M-2026]_Single Punch.mp4', type: 'video', category: 'motion', title: 'Single Punch (2026)' },
     { src: 'assets/motion/[M-2026]_Walk Cycle.mp4', type: 'video', category: 'motion', title: 'Walk Cycle (2026)' },
@@ -222,22 +213,35 @@
     { src: 'assets/motion/[M-2026]_Squirrel-Jump.mp4', type: 'video', category: 'motion', title: 'Squirrel Jump (2026)' },
     { src: 'assets/motion/[M-2026]_Ball-Obstacle.mp4', type: 'video', category: 'motion', title: 'Ball Obstacle (2026)' },
     { src: 'assets/motion/[M-2026]_Different Ball Bounce.mp4', type: 'video', category: 'motion', title: 'Different Ball Bounce (2026)' },
-
-    // --2D ANIMATION --
-    { src: 'assets/motion/[M-2025]_ANIMATION5.mp4', type: 'video', category: 'motion', title: 'Hazbin Hotel Fan Animation (2025)' },
-    { src: 'assets/motion/[M-2025]_ANIMATION4.mp4', type: 'video', category: 'motion', title: 'Staging (2025)' },
-    { src: 'assets/motion/[M-2025]_ANIMATION3.mp4', type: 'video', category: 'motion', title: 'Straight Ahead (2025)' },
+      
+    // -- 2D --
+    { src: 'assets/motion/[M-2026]_Space Invaders.mp4', type: 'video', category: 'motion', title: 'Space Invaders (2026)' },
+    { src: 'assets/motion/[M-2026]_OC-Rig.mp4', type: 'video', category: 'motion', title: 'OC Rig (2026)' },
+    { src: 'assets/motion/[M-2026]_Lip-Sync.mp4', type: 'video', category: 'motion', title: 'Lip-Sync (2026)' },
+    { src: 'assets/motion/[M-2026]_Timing-n-Spacing.mp4', type: 'video', category: 'motion', title: 'Timing & Spacing (2026)' },
+    { src: 'assets/motion/[M-2026]_Head-Turn.mp4', type: 'video', category: 'motion', title: 'Head Turn (2026)' },
+    { src: 'assets/motion/[M-2026]_Horizontal-Ball.mp4', type: 'video', category: 'motion', title: 'Horizontal Ball (2026)' },
+    { src: 'assets/motion/[M-2025]_HH Fan Animation.mp4', type: 'video', category: 'motion', title: 'HH Fan Animation (2025)' },
+    { src: 'assets/motion/[M-2025]_Squash-n-Stretch.mp4', type: 'video', category: 'motion', title: 'Squash & Stretch (2025)' },
+    { src: 'assets/motion/[M-2025]_Straight_Ahead.mp4', type: 'video', category: 'motion', title: 'Straight Ahead (2025)' },
     { src: 'assets/motion/[M-2025]_Pose-to-Pose.mp4', type: 'video', category: 'motion', title: 'Pose-to-Pose (2025)' },
-    { src: 'assets/motion/[M-2025]_ANIMATION1.mp4', type: 'video', category: 'motion', title: 'Bouncing Ball (2025)' },
+    { src: 'assets/motion/[M-2025]_Bouncing-Ball.mp4', type: 'video', category: 'motion', title: 'Bouncing Ball (2025)' },
 
+    // -- LED Backdrop --
     { src: 'assets/motion/[M-2025]_124th-UDAYS-Mass-Demo-LED.mp4', type: 'video', category: 'motion', title: '124th UDAYS MD LED (2025)' },
     { src: 'assets/motion/[M-2025]_124th-UDAYS-Opening-Ceremonies-LED.mp4', type: 'video', category: 'motion', title: '124th UDAYS OC LED (2025)' },
-    { src: 'assets/motion/[M-2025]_Lineart-Rotoscope.mp4', type: 'video', category: 'motion', title: 'Lineart Rotoscope (2025)' },
+      
+    // -- MoGraph --
+    { src: 'assets/motion/[M-2026]_Stretch.mp4', type: 'video', category: 'motion', title: 'Stretch (2026)' },
+    { src: 'assets/motion/[M-2026]_Space.mp4', type: 'video', category: 'motion', title: 'Space (2026)' },
+    { src: 'assets/motion/[M-2026]_CITEC.mp4', type: 'video', category: 'motion', title: 'CITEC (2026)' },
+    { src: 'assets/motion/[M-2026]_Cocktails.mp4', type: 'video', category: 'motion', title: 'Cocktails (2026)' },
+    { src: 'assets/motion/[M-2026]_Google.mp4', type: 'video', category: 'motion', title: 'Google (2026)' },
+    { src: 'assets/motion/[M-2026]_Fortnite.mp4', type: 'video', category: 'motion', title: 'Fortnite (2026)' },
+    { src: 'assets/motion/[M-2026]_Cafe Select.mp4', type: 'video', category: 'motion', title: 'Café Select (2026)' },
     { src: 'assets/motion/[M-2024]_StephFilms.MP4', type: 'video', category: 'motion', title: 'StephFilms (2024)' },
     { src: 'assets/motion/[M-2024]_Smoochies.mp4', type: 'video', category: 'motion', title: 'Smoochies (2024)' },
-    { src: 'assets/motion/[M-2023]_Sagutin-Mo-Ako.mp4', type: 'video', category: 'motion', title: 'Sagutin Mo Ako (2023)' },
     { src: 'assets/motion/[M-2023]_B-Lotion-Products.mp4', type: 'video', category: 'motion', title: 'Body Lotion Products (2023)' },
-    { src: 'assets/motion/[M-2023]_B-Lotion-Levels.mp4', type: 'video', category: 'motion', title: 'Body Lotion Levels (2023)' },
     { src: 'assets/motion/[M-2022]_MelVid-Productions.mp4', type: 'video', category: 'motion', title: 'MelVid Productions (2022)' },
     { src: 'assets/motion/[M-2022]_Copy-Me-Costplay.mp4', type: 'video', category: 'motion', title: 'VAC CMC Contest (2022)' }
   ];
