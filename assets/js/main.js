@@ -106,25 +106,65 @@
 
 // -- DESIGN --      
     // -- Logo Layout --
+    { src: 'assets/illustration/[I-2026]_STEP.PNG', type: 'image', category: 'illustration', title: 'STEP (2026)' },
+    { src: 'assets/illustration/[I-2026]_OP-UDAYS.PNG', type: 'image', category: 'illustration', title: '125th UDAYS (2026)' },
     { src: 'assets/illustration/[I-2025]_BPEDSOC.PNG', type: 'image', category: 'illustration', title: 'BPED Society (2025)' },
     { src: 'assets/illustration/[I-2023]_Cafe-Select.PNG', type: 'image', category: 'illustration', title: 'Café Select (2023)' },
       
     // -- Shirt Layout --
-    { src: 'assets/illustration/[I-2025]_CSP-Days_C2-Shirt.png', type: 'image', category: 'illustration', title: 'CSP DAYS C2 Shirt (2025)' },
+    { src: 'assets/illustration/[I-2026]_FSUU-SSG_TypeB-Shirt.png', type: 'image', category: 'illustration', title: 'FSUU-SSG B-Shirt (2026)' },
+    { src: 'assets/illustration/[I-2025]_THMP-Org-Shirt.png', type: 'image', category: 'illustration', title: 'THMP-LSG Org. Shirt (2025)' },
+    { src: 'assets/illustration/[I-2025]_CSP-Days_C2-Shirt.png', type: 'image', category: 'illustration', title: 'CSP DAYS C2-Jersey (2025)' },
     { src: 'assets/illustration/[I-2025]_FSUU-DC_Org-Shirt.png', type: 'image', category: 'illustration', title: 'FSUU DC Org. Shirt (2025)' },
+    { src: 'assets/illustration/[I-2025]_UCS-Org-Shirt.png', type: 'image', category: 'illustration', title: 'UCS Org. Shirt (2025)' },
       
-    // -- PubMat Layout --
-    { src: 'assets/illustration/[I-2025]_Islaline-Layout.png', type: 'image', category: 'illustration', title: 'Islaline Layout (2025)' },
+    // -- PubMat & Posters --
+    { src: 'assets/illustration/[I-2026]_Everwyn-Logo.png', type: 'image', category: 'illustration', title: 'Everwyn (2026)' },
+    { src: 'assets/illustration/[I-2026]_Everwyn-SDS.png', type: 'image', category: 'illustration', title: 'Everwyn SDS (2026)' },
+    { src: 'assets/illustration/[I-2026]_Zelle-Banner.png', type: 'image', category: 'illustration', title: 'Miss Zelle Banner (2026)' },
     { src: 'assets/illustration/[I-2025]_CSUCC-EE.png', type: 'image', category: 'illustration', title: 'CSUCC EE Banner (2025)' },
+
+    { src: 'assets/illustration/[I-2026]_Padayon-Layout.PNG', type: 'image', category: 'illustration', title: 'Padayon Layout (2026)' },
+    { src: 'assets/illustration/[I-2026]_LOST-Layout-2.png', type: 'image', category: 'illustration', title: 'LOST Layout 2 (2026)' },
+    { src: 'assets/illustration/[I-2026]_LOST-Layout.PNG', type: 'image', category: 'illustration', title: 'LOST Layout 1 (2026)' },
+    { src: 'assets/illustration/[I-2026]_Narcissus & Echo Layout.PNG', type: 'image', category: 'illustration', title: 'N&E Layout (2026)' },
+    { src: 'assets/illustration/[I-2025]_Islaline-Layout.png', type: 'image', category: 'illustration', title: 'Islaline Layout (2025)' },
+      
+    { src: 'assets/illustration/[I-2026]_Grad-Starter-Pack.PNG', type: 'image', category: 'illustration', title: 'Graduation Starter Pack (2026)' },
+    { src: 'assets/illustration/[I-2026]_Grad-Selection.png', type: 'image', category: 'illustration', title: 'Veritas Announcement (2026)' },
+    { src: 'assets/illustration/[I-2026]_1st-Meeting.png', type: 'image', category: 'illustration', title: 'Veritas 1st Meeting (2026)' },
+    { src: 'assets/illustration/[I-2025]_Pictorial-Sched.PNG', type: 'image', category: 'illustration', title: 'Veritas Pictorial (2025)' },
+    
+    { src: 'assets/illustration/[I-2026]_Executive-Bulletin.png', type: 'image', category: 'illustration', title: 'Executive Bulletin (2025)' },
+    { src: 'assets/illustration/[I-2025]_UCS-Bulletin.png', type: 'image', category: 'illustration', title: 'UCS Bulletin (2025)' },
+
+    { src: 'assets/illustration/[I-2025]_Theme-Proposal.png', type: 'image', category: 'illustration', title: 'Theme Proposal (2025)' },
+    { src: 'assets/illustration/[I-2025]_UCS-Program-Flow.png', type: 'image', category: 'illustration', title: 'UCS Program Flow (2025)' },
+
+    { src: 'assets/illustration/[I-2026]_DP-BLASTS_125th-UDAYS.png', type: 'image', category: 'illustration', title: 'DP Blasts 125th UDAYS (2026)' },
+    { src: 'assets/illustration/[I-2026]_DP-BLASTS_Uriantation.png', type: 'image', category: 'illustration', title: 'DP Blasts Uriantation (2026)' },
+    { src: 'assets/illustration/[I-2026]_125th UDAYS-Medal-Tally.png', type: 'image', category: 'illustration', title: 'Medal Tally (2026)' },
     { src: 'assets/illustration/[I-2025]_124th UDAYS-Medal-Tally.png', type: 'image', category: 'illustration', title: 'Medal Tally (2025)' },
     { src: 'assets/illustration/[I-2025]_Advance-Games_Winner.png', type: 'image', category: 'illustration', title: 'Advance Games Winner (2025)' },
+    { src: 'assets/illustration/[I-2026]_125th UDAYS-Medals.png', type: 'image', category: 'illustration', title: 'Medals (2026)' },
+
+    { src: 'assets/illustration/[I-2026]_Grad2.png', type: 'image', category: 'illustration', title: 'Graduation 2 (2026)' },
+    { src: 'assets/illustration/[I-2026]_Grad1.png', type: 'image', category: 'illustration', title: 'Graduation 1 (2026)' },
+    { src: 'assets/illustration/[I-2026]_Virgin-Mary.PNG', type: 'image', category: 'illustration', title: 'Virgin Mary (2026)' },
+    { src: 'assets/illustration/[I-2025]_Musical-Fest_Invitation.png', type: 'image', category: 'illustration', title: 'Musical Fest (2025)' },
+    { src: 'assets/illustration/[I-2025]_Uni-Gala_Invitation.png', type: 'image', category: 'illustration', title: 'Uni Gala (2025)' },
+      
+    { src: 'assets/illustration/[I-2025]_Pasundayag.PNG', type: 'image', category: 'illustration', title: 'Pasundayag (2025)' },
     { src: 'assets/illustration/[I-2025]_124th-UDAYS-OC.PNG', type: 'image', category: 'illustration', title: '124th UDAYS OC (2025)' },
+
+    { src: 'assets/illustration/[I-2026]_BNW.png', type: 'image', category: 'illustration', title: 'Buwan ng Wika (2026)' },
     { src: 'assets/illustration/[I-2025]_BNW.PNG', type: 'image', category: 'illustration', title: 'Buwan ng Wika (2025)' },
     { src: 'assets/illustration/[I-2025]_Crossover-Invitation.png', type: 'image', category: 'illustration', title: 'Crossover Invitation (2025)' },
     { src: 'assets/illustration/[I-2025]_FSUU-SSG-EXEC_HBD.png', type: 'image', category: 'illustration', title: 'FSUU SSG-Exec HBD (2025)' },
     { src: 'assets/illustration/[I-2025]_DOI-MYO.png', type: 'image', category: 'illustration', title: 'DOI Officers (2025)' },
     { src: 'assets/illustration/[I-2025]_Lens-Ready.png', type: 'image', category: 'illustration', title: 'Lens Ready (2025)' },
     { src: 'assets/illustration/[I-2025]_Join-The-Pub.png', type: 'image', category: 'illustration', title: 'Join The Pub (2025)' },
+    { src: 'assets/illustration/[I-2025]_TTWE.PNG', type: 'image', category: 'illustration', title: 'FSUU DC Auditions (2025)' },
       
     // -- Illustration --
     { src: 'assets/illustration/[I-2026]_125th-UDAYS-Invitation.png', type: 'image', category: 'illustration', title: '125th UDAYS Invitation (2026)' },
