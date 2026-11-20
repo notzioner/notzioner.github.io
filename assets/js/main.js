@@ -121,7 +121,7 @@
     { src: 'assets/illustration/[I-2025]_UCS-Org-Shirt.png', type: 'image', category: 'illustration', title: 'UCS Org. Shirt (2025)' },
       
     // -- PubMat & Posters --
-    { src: 'assets/illustration/[I-2026]_Everwyn-Logo.png', type: 'image', category: 'illustration', title: 'Everwyn (2026)' },
+    { src: 'assets/illustration/[I-2026]_Everwyn-Logo.png', type: 'image', category: 'illustration', title: 'Everwyn Title Screen (2026)' },
     { src: 'assets/illustration/[I-2026]_Everwyn-SDS.png', type: 'image', category: 'illustration', title: 'Everwyn Sigils (2026)' },
     { src: 'assets/illustration/[I-2026]_Zelle-Banner.png', type: 'image', category: 'illustration', title: 'Miss Zelle Banner (2026)' },
     { src: 'assets/illustration/[I-2025]_CSUCC-EE.png', type: 'image', category: 'illustration', title: 'CSU-CC Electical Engineers Banner (2025)' },
