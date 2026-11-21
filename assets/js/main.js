@@ -110,13 +110,13 @@
     { src: 'assets/illustration/[I-2026]_Veritas.PNG', type: 'image', category: 'illustration', title: 'Veritas (2026)' },
     { src: 'assets/illustration/[I-2026]_125th-UDAYS.png', type: 'image', category: 'illustration', title: '125th UDAYS (2026)' },
     { src: 'assets/illustration/[I-2026]_125th-UDAYS-Medals.png', type: 'image', category: 'illustration', title: '125th UDAYS Medals (2026)' },
-    { src: 'assets/illustration/[I-2025]_BPEDSOC.PNG', type: 'image', category: 'illustration', title: 'BPED Society (2025)' },
+    { src: 'assets/illustration/[I-2025]_BPEDSOC.PNG', type: 'image', category: 'illustration', title: 'FSUU BPED Society (2025)' },
     { src: 'assets/illustration/[I-2023]_Cafe-Select.PNG', type: 'image', category: 'illustration', title: 'Café Select (2023)' },
       
     // -- Shirt Layout --
-    { src: 'assets/illustration/[I-2026]_FSUU-SSG_TypeB-Shirt.png', type: 'image', category: 'illustration', title: 'FSUU-SSG B-Shirt (2026)' },
+    { src: 'assets/illustration/[I-2026]_FSUU-SSG_TypeB-Shirt.png', type: 'image', category: 'illustration', title: 'FSUU-SSG Type B (2026)' },
     { src: 'assets/illustration/[I-2025]_THMP-Org-Shirt.png', type: 'image', category: 'illustration', title: 'THMP-LSG Org. Shirt (2025)' },
-    { src: 'assets/illustration/[I-2025]_CSP-Days_C2-Shirt.png', type: 'image', category: 'illustration', title: 'CSP DAYS C2-Jersey (2025)' },
+    { src: 'assets/illustration/[I-2025]_CSP-Days_C2-Shirt.png', type: 'image', category: 'illustration', title: 'CSP DAYS Cluster 2 Jersey (2025)' },
     { src: 'assets/illustration/[I-2025]_FSUU-DC_Org-Shirt.png', type: 'image', category: 'illustration', title: 'FSUU DC Org. Shirt (2025)' },
     { src: 'assets/illustration/[I-2025]_UCS-Org-Shirt.png', type: 'image', category: 'illustration', title: 'UCS Org. Shirt (2025)' },
       
@@ -127,10 +127,8 @@
     { src: 'assets/illustration/[I-2025]_CSUCC-EE.png', type: 'image', category: 'illustration', title: 'CSU-CC Electical Engineers Banner (2025)' },
       
     { src: 'assets/illustration/[I-2026]_Padayon-Layout.PNG', type: 'image', category: 'illustration', title: 'Padayon Poster (2026)' },
-    { src: 'assets/illustration/[I-2026]_LOST-Layout-2.png', type: 'image', category: 'illustration', title: 'LOST Game (2026)' },
-    { src: 'assets/illustration/[I-2026]_LOST-Layout.PNG', type: 'image', category: 'illustration', title: 'LOST Game Poster (2026)' },
-    { src: 'assets/illustration/[I-2026]_Narcissus & Echo Layout.PNG', type: 'image', category: 'illustration', title: 'Narcissus & Echo Poster (2026)' },
-    { src: 'assets/illustration/[I-2025]_Islaline-Layout.png', type: 'image', category: 'illustration', title: 'Islaline Game (2025)' },
+    { src: 'assets/illustration/[I-2026]_LOST-Layout-2.png', type: 'image', category: 'illustration', title: 'LOST Game UI (2026)' },
+    { src: 'assets/illustration/[I-2025]_Islaline-Layout.png', type: 'image', category: 'illustration', title: 'Islaline Game UI (2025)' },
       
     { src: 'assets/illustration/[I-2026]_Grad-Starter-Pack.PNG', type: 'image', category: 'illustration', title: 'Graduation Starter Pack (2026)' },
     { src: 'assets/illustration/[I-2026]_Grad-Selection.png', type: 'image', category: 'illustration', title: 'Veritas Announcement (2026)' },
@@ -140,7 +138,7 @@
     { src: 'assets/illustration/[I-2026]_Executive-Bulletin.png', type: 'image', category: 'illustration', title: 'FSUU SSG Bulletin (2025)' },
     { src: 'assets/illustration/[I-2025]_UCS-Bulletin.png', type: 'image', category: 'illustration', title: 'UCS Bulletin (2025)' },
       
-    { src: 'assets/illustration/[I-2025]_UCS-Program-Flow.png', type: 'image', category: 'illustration', title: 'UCS Program Flow (2025)' },
+    { src: 'assets/illustration/[I-2025]_UCS-Program-Flow.png', type: 'image', category: 'illustration', title: 'UCS Gen. Ass Program Flow (2025)' },
     { src: 'assets/illustration/[I-2026]_Theme-Proposal.PNG', type: 'image', category: 'illustration', title: 'Theme Proposal (2026)' },
     { src: 'assets/illustration/[I-2025]_Theme-Proposal.png', type: 'image', category: 'illustration', title: 'Theme Proposal (2025)' },
     { src: 'assets/illustration/[I-2026]_125th-UDAYS-Banners.png', type: 'image', category: 'illustration', title: 'Banners 125th UDAYS (2026)' },
@@ -164,7 +162,7 @@
     { src: 'assets/illustration/[I-2025]_Pasundayag.PNG', type: 'image', category: 'illustration', title: 'Pasundayag (2025)' },
     { src: 'assets/illustration/[I-2025]_Lens-Ready.png', type: 'image', category: 'illustration', title: 'Lens Ready (2025)' },
     { src: 'assets/illustration/[I-2025]_Join-The-Pub.png', type: 'image', category: 'illustration', title: 'Join The Pub (2025)' },
-    { src: 'assets/illustration/[I-2025]_TTWE.PNG', type: 'image', category: 'illustration', title: 'FSUU DC Auditions (2025)' },
+    { src: 'assets/illustration/[I-2025]_TTWE.PNG', type: 'image', category: 'illustration', title: 'FSUU DC Audition (2025)' },
       
     // -- Illustration --
     { src: 'assets/illustration/[I-2026]_125th-UDAYS-Invitation.png', type: 'image', category: 'illustration', title: '125th UDAYS Invitation (2026)' },
@@ -189,7 +187,7 @@
     { src: 'assets/graphic/[G-2026]_Samyang-Buldak.mp4', type: 'image', category: 'graphic', title: 'Samyang Buldak (2026)' },     
     { src: 'assets/graphic/[G-2026]_Everyone-Is-Here.mp4', type: 'image', category: 'graphic', title: 'Everyone Is Here (2026)' },      
     { src: 'assets/graphic/[G-2026]_Lucky-Me.mp4', type: 'image', category: 'graphic', title: 'Lucky-Me Pancit Canton (2026)' },
-    { src: 'assets/graphic/[G-2025]_EMC-Life.mp4', type: 'image', category: 'graphic', title: 'EMC Life (2025)' },   
+    { src: 'assets/graphic/[G-2025]_EMC-Life.mp4', type: 'image', category: 'graphic', title: 'EMC Student Life (2025)' },   
     { src: 'assets/graphic/[G-2025]_Frostie.mp4', type: 'image', category: 'graphic', title: 'Frostie (2025)' },     
     { src: 'assets/graphic/[G-2025]_Narcissus-&-Echo.mp4', type: 'image', category: 'graphic', title: 'Narcissus & Echo (2025)' }, 
       
@@ -207,7 +205,7 @@
     { src: 'assets/motion/[M-2020]_Sans.png', type: 'video', category: 'motion', title: 'Sans (2020)' },
       
     // -- 3D Animation --
-    { src: 'assets/motion/[M-2026]_Character Movement.mp4', type: 'video', category: 'motion', title: 'Character Movement (2026)' },
+    { src: 'assets/motion/[M-2026]_Character Movement.mp4', type: 'video', category: 'motion', title: 'Principles of 3D Animation (2026)' },
     { src: 'assets/motion/[M-2026]_Single Punch.mp4', type: 'video', category: 'motion', title: 'Single Punch (2026)' },
     { src: 'assets/motion/[M-2026]_Walk Cycle.mp4', type: 'video', category: 'motion', title: 'Walk Cycle (2026)' },
     { src: 'assets/motion/[M-2026]_Shift Weight.mp4', type: 'video', category: 'motion', title: 'Shift Weight (2026)' },
@@ -225,7 +223,7 @@
     { src: 'assets/motion/[M-2026]_Timing-n-Spacing.mp4', type: 'video', category: 'motion', title: 'Timing & Spacing (2026)' },
     { src: 'assets/motion/[M-2026]_Head-Turn.mp4', type: 'video', category: 'motion', title: 'Head Turn (2026)' },
     { src: 'assets/motion/[M-2026]_Horizontal-Ball.mp4', type: 'video', category: 'motion', title: 'Horizontal Ball (2026)' },
-    { src: 'assets/motion/[M-2025]_HH Fan Animation.mp4', type: 'video', category: 'motion', title: 'HH Fan Animation (2025)' },
+    { src: 'assets/motion/[M-2025]_HH Fan Animation.mp4', type: 'video', category: 'motion', title: 'Principles of 2D Animation (2025)' },
     { src: 'assets/motion/[M-2025]_Squash-n-Stretch.mp4', type: 'video', category: 'motion', title: 'Squash & Stretch (2025)' },
     { src: 'assets/motion/[M-2025]_Straight_Ahead.mp4', type: 'video', category: 'motion', title: 'Straight Ahead (2025)' },
     { src: 'assets/motion/[M-2025]_Pose-to-Pose.mp4', type: 'video', category: 'motion', title: 'Pose-to-Pose (2025)' },
@@ -246,7 +244,6 @@
     { src: 'assets/motion/[M-2024]_StephFilms.MP4', type: 'video', category: 'motion', title: 'StephFilms (2024)' },
     { src: 'assets/motion/[M-2024]_Smoochies.mp4', type: 'video', category: 'motion', title: 'Smoochies (2024)' },
     { src: 'assets/motion/[M-2023]_B-Lotion-Products.mp4', type: 'video', category: 'motion', title: 'Body Lotion Products (2023)' },
-    { src: 'assets/motion/[M-2022]_MelVid-Productions.mp4', type: 'video', category: 'motion', title: 'MelVid Productions (2022)' },
     { src: 'assets/motion/[M-2022]_Copy-Me-Costplay.mp4', type: 'video', category: 'motion', title: 'VAC CMC Contest (2022)' }
   ];
 
