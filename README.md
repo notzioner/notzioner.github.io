@@ -1,4 +1,4 @@
-# Miss Zelle | Creative Hub
+# Miss Zelle's Creative Hub
 
 A business site by [@notzioner](https://github.com/notzioner)'s personal, school, and brand creative works.
 
@@ -33,13 +33,13 @@ A business site by [@notzioner](https://github.com/notzioner)'s personal, school
 │   │   └── Portfolio (2018–2025)
 │   ├── fonts/
 │   │   └── brick.woff
-│   ├── graphic/            # 2021–present
-│   ├── illustration/       # 2020–present
-│   ├── images/             # Logo, avatar, resume preview, tool and software icons, and commission board
+│   ├── design/            # 2021–present
+│   ├── production/       # 2020–present
+│   ├── images/             # Logo, avatar, CV preview, and commission board
 │   ├── js/
 │   │   ├── main.js         # JS for Creative Hub
 │   │   └── main2.js        # JS for Terms of Service
-│   └── motion/             # 2022–present
+│   └── animation/             # 2022–present
 ```
 
 ---
@@ -51,13 +51,13 @@ A business site by [@notzioner](https://github.com/notzioner)'s personal, school
 - **Home**
 - **About**
 - **Projects**
-  - Illustration
-  - Graphic
-  - Motion
+  - Design
+  - Production
+  - Animation
 - **Service**
   - Terms of Service
   - Portfolio (Selected Works)
-  - Resume
+  - CV
   - Project Showcase
   - Social Media Links
   - Discord Server Invite
@@ -75,7 +75,7 @@ A business site by [@notzioner](https://github.com/notzioner)'s personal, school
 ## 📌 Notes
 
 - All rights reserved by `@notzioner`, please do not reproduce.
-- Intended for clients, collaborators, and academic / professional reference.
+- Intended for clients, collaborators, and professional reference.
 
 ---
 
