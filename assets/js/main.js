@@ -127,18 +127,18 @@
     { src: 'assets/illustration/[I-2025]_CSUCC-EE.png', type: 'image', category: 'illustration', title: 'CSU-CC Electical Engineers Banner (2025)' },
       
     { src: 'assets/illustration/[I-2026]_Padayon-Layout.PNG', type: 'image', category: 'illustration', title: 'Padayon Poster (2026)' },
-    { src: 'assets/illustration/[I-2026]_LOST-Layout-2.png', type: 'image', category: 'illustration', title: 'LOST Game UI (2026)' },
+    { src: 'assets/illustration/[I-2026]_LOST-Layout-2.png', type: 'image', category: 'illustration', title: 'LOST: The Last Watcher Game UI (2026)' },
     { src: 'assets/illustration/[I-2025]_Islaline-Layout.png', type: 'image', category: 'illustration', title: 'Islaline Game UI (2025)' },
       
     { src: 'assets/illustration/[I-2026]_Grad-Starter-Pack.PNG', type: 'image', category: 'illustration', title: 'Graduation Starter Pack (2026)' },
-    { src: 'assets/illustration/[I-2026]_Grad-Selection.png', type: 'image', category: 'illustration', title: 'Veritas Announcement (2026)' },
+    { src: 'assets/illustration/[I-2026]_Grad-Selection.png', type: 'image', category: 'illustration', title: 'Veritas Announcement Sample (2026)' },
     { src: 'assets/illustration/[I-2026]_1st-Meeting.png', type: 'image', category: 'illustration', title: 'Veritas 1st Meeting (2026)' },
-    { src: 'assets/illustration/[I-2025]_Pictorial-Sched.PNG', type: 'image', category: 'illustration', title: 'Veritas Pictorial (2025)' },
+    { src: 'assets/illustration/[I-2025]_Pictorial-Sched.PNG', type: 'image', category: 'illustration', title: 'Veritas Pictorial Schedule (2025)' },
       
     { src: 'assets/illustration/[I-2026]_Executive-Bulletin.png', type: 'image', category: 'illustration', title: 'FSUU SSG Bulletin Concept (2025)' },
     { src: 'assets/illustration/[I-2025]_UCS-Bulletin.png', type: 'image', category: 'illustration', title: 'UCS Bulletin Concept (2025)' },
       
-    { src: 'assets/illustration/[I-2025]_UCS-Program-Flow.png', type: 'image', category: 'illustration', title: 'UCS Gen. Ass Program Flow (2025)' },
+    { src: 'assets/illustration/[I-2025]_UCS-Program-Flow.png', type: 'image', category: 'illustration', title: 'UCS General Assembly Program Flow (2025)' },
     { src: 'assets/illustration/[I-2026]_Theme-Proposal.PNG', type: 'image', category: 'illustration', title: 'Theme Proposal (2026)' },
     { src: 'assets/illustration/[I-2025]_Theme-Proposal.png', type: 'image', category: 'illustration', title: 'Theme Proposal (2025)' },
     { src: 'assets/illustration/[I-2026]_125th-UDAYS-Banners.png', type: 'image', category: 'illustration', title: 'Banners 125th UDAYS (2026)' },
@@ -153,12 +153,12 @@
     { src: 'assets/illustration/[I-2025]_Crossover-Invitation.png', type: 'image', category: 'illustration', title: 'Crossover Invitation (2025)' },
     { src: 'assets/illustration/[I-2026]_BNW.png', type: 'image', category: 'illustration', title: 'Buwan ng Wika (2026)' },
     { src: 'assets/illustration/[I-2025]_BNW.PNG', type: 'image', category: 'illustration', title: 'Buwan ng Wika (2025)' },
-    { src: 'assets/illustration/[I-2026]_Grad2.png', type: 'image', category: 'illustration', title: 'Graduation 2 (2026)' },
-    { src: 'assets/illustration/[I-2026]_Grad1.png', type: 'image', category: 'illustration', title: 'Graduation 1 (2026)' },
-    { src: 'assets/illustration/[I-2025]_FSUU-SSG-EXEC_HBD.png', type: 'image', category: 'illustration', title: 'FSUU SSG HBD (2025)' },
-    { src: 'assets/illustration/[I-2025]_DOI-MYO.png', type: 'image', category: 'illustration', title: 'DOI Officers (2025)' },
+    { src: 'assets/illustration/[I-2026]_Grad2.png', type: 'image', category: 'illustration', title: 'FSUU SSG Graduating Officer (2026)' },
+    { src: 'assets/illustration/[I-2026]_Grad1.png', type: 'image', category: 'illustration', title: '74th Commencement Exercises (2026)' },
+    { src: 'assets/illustration/[I-2025]_FSUU-SSG-EXEC_HBD.png', type: 'image', category: 'illustration', title: 'FSUU SSG Happy Birthday (2025)' },
+    { src: 'assets/illustration/[I-2025]_DOI-MYO.png', type: 'image', category: 'illustration', title: 'FSUU SSG DOI Officers (2025)' },
 
-    { src: 'assets/illustration/[I-2025]_124th-UDAYS-OC.PNG', type: 'image', category: 'illustration', title: '124th UDAYS Opening (2025)' },
+    { src: 'assets/illustration/[I-2025]_124th-UDAYS-OC.PNG', type: 'image', category: 'illustration', title: '124th UDAYS Opening Ceremony (2025)' },
     { src: 'assets/illustration/[I-2025]_Pasundayag.PNG', type: 'image', category: 'illustration', title: 'Pasundayag (2025)' },
     { src: 'assets/illustration/[I-2025]_Lens-Ready.png', type: 'image', category: 'illustration', title: 'Lens Ready (2025)' },
     { src: 'assets/illustration/[I-2025]_Join-The-Pub.png', type: 'image', category: 'illustration', title: 'Join The Pub (2025)' },
@@ -230,8 +230,8 @@
     { src: 'assets/motion/[M-2025]_Bouncing-Ball.mp4', type: 'video', category: 'motion', title: 'Bouncing Ball (2025)' },
 
     // -- LED Backdrop --
-    { src: 'assets/motion/[M-2025]_124th-UDAYS-Mass-Demo-LED.mp4', type: 'video', category: 'motion', title: '124th UDAYS Mass Demo LED (2025)' },
-    { src: 'assets/motion/[M-2025]_124th-UDAYS-Opening-Ceremonies-LED.mp4', type: 'video', category: 'motion', title: '124th UDAYS Opening LED (2025)' },
+    { src: 'assets/motion/[M-2025]_124th-UDAYS-Mass-Demo-LED.mp4', type: 'video', category: 'motion', title: '124th UDAYS College Mass Demo LED (2025)' },
+    { src: 'assets/motion/[M-2025]_124th-UDAYS-Opening-Ceremonies-LED.mp4', type: 'video', category: 'motion', title: '124th UDAYS Opening Ceremony LED (2025)' },
       
     // -- MoGraph --
     { src: 'assets/motion/[M-2026]_Stretch.mp4', type: 'video', category: 'motion', title: 'Stretch (2026)' },
