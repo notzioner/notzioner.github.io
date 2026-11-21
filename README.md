@@ -65,11 +65,10 @@ A business site by [@notzioner](https://github.com/notzioner)'s personal, school
 ### `terms-of-service.html` – Commission Page
 
 - I. Commission Pricing  
-- II. Commission Process  
-- III. Content Restrictions  
-- IV. Timeline and Process  
-- V. Deliverables  
-- VI. Mode of Payment  
+- II. Commission Process   
+- III. Timeline and Process  
+- IV. Deliverables  
+- V. Mode of Payment  
 
 ---
 
@@ -87,4 +86,4 @@ A business site by [@notzioner](https://github.com/notzioner)'s personal, school
 
 ---
 
-© 2025 Miss Zelle | Creative Hub (Date Updated: Nov 17, 2026)
+© 2025 Miss Zelle's Creative Hub (Date Updated: Nov 21, 2026)
