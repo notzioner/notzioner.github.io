@@ -115,8 +115,8 @@
       
     // -- Shirt Layout --
     { src: 'assets/illustration/[I-2026]_FSUU-SSG_TypeB-Shirt.png', type: 'image', category: 'illustration', title: 'FSUU-SSG Type B (2026)' },
-    { src: 'assets/illustration/[I-2025]_THMP-Org-Shirt.png', type: 'image', category: 'illustration', title: 'THMP-LSG Org. Shirt (2025)' },
-    { src: 'assets/illustration/[I-2025]_CSP-Days_C2-Shirt.png', type: 'image', category: 'illustration', title: 'CSP DAYS Cluster 2 Jersey (2025)' },
+    { src: 'assets/illustration/[I-2025]_THMP-Org-Shirt.png', type: 'image', category: 'illustration', title: 'FSUU THMP-LSG Org. Shirt (2025)' },
+    { src: 'assets/illustration/[I-2025]_CSP-Days_C2-Shirt.png', type: 'image', category: 'illustration', title: 'FSUU CSP DAYS Cluster 2 Jersey (2025)' },
     { src: 'assets/illustration/[I-2025]_FSUU-DC_Org-Shirt.png', type: 'image', category: 'illustration', title: 'FSUU DC Org. Shirt (2025)' },
     { src: 'assets/illustration/[I-2025]_UCS-Org-Shirt.png', type: 'image', category: 'illustration', title: 'UCS Org. Shirt (2025)' },
       
@@ -135,8 +135,8 @@
     { src: 'assets/illustration/[I-2026]_1st-Meeting.png', type: 'image', category: 'illustration', title: 'Veritas 1st Meeting (2026)' },
     { src: 'assets/illustration/[I-2025]_Pictorial-Sched.PNG', type: 'image', category: 'illustration', title: 'Veritas Pictorial (2025)' },
       
-    { src: 'assets/illustration/[I-2026]_Executive-Bulletin.png', type: 'image', category: 'illustration', title: 'FSUU SSG Bulletin (2025)' },
-    { src: 'assets/illustration/[I-2025]_UCS-Bulletin.png', type: 'image', category: 'illustration', title: 'UCS Bulletin (2025)' },
+    { src: 'assets/illustration/[I-2026]_Executive-Bulletin.png', type: 'image', category: 'illustration', title: 'FSUU SSG Bulletin Concept (2025)' },
+    { src: 'assets/illustration/[I-2025]_UCS-Bulletin.png', type: 'image', category: 'illustration', title: 'UCS Bulletin Concept (2025)' },
       
     { src: 'assets/illustration/[I-2025]_UCS-Program-Flow.png', type: 'image', category: 'illustration', title: 'UCS Gen. Ass Program Flow (2025)' },
     { src: 'assets/illustration/[I-2026]_Theme-Proposal.PNG', type: 'image', category: 'illustration', title: 'Theme Proposal (2026)' },
@@ -144,21 +144,21 @@
     { src: 'assets/illustration/[I-2026]_125th-UDAYS-Banners.png', type: 'image', category: 'illustration', title: 'Banners 125th UDAYS (2026)' },
     { src: 'assets/illustration/[I-2026]_DP-BLASTS_125th-UDAYS.png', type: 'image', category: 'illustration', title: 'DP Blasts 125th UDAYS (2026)' },
     { src: 'assets/illustration/[I-2026]_DP-BLASTS_Uriantation.png', type: 'image', category: 'illustration', title: 'DP Blasts Uriantation (2026)' },
-    { src: 'assets/illustration/[I-2026]_125th UDAYS-Medal-Tally.png', type: 'image', category: 'illustration', title: 'Medal Tally (2026)' },
-    { src: 'assets/illustration/[I-2025]_124th UDAYS-Medal-Tally.png', type: 'image', category: 'illustration', title: 'Medal Tally (2025)' },
+    { src: 'assets/illustration/[I-2026]_125th UDAYS-Medal-Tally.png', type: 'image', category: 'illustration', title: '125th UDAYS Medal Tally (2026)' },
+    { src: 'assets/illustration/[I-2025]_124th UDAYS-Medal-Tally.png', type: 'image', category: 'illustration', title: '124th UDAYS Medal Tally (2025)' },
       
-    { src: 'assets/illustration/[I-2026]_Virgin-Mary.PNG', type: 'image', category: 'illustration', title: 'Virgin Mary (2026)' },
+    { src: 'assets/illustration/[I-2026]_Virgin-Mary.PNG', type: 'image', category: 'illustration', title: 'Immaculate Conception (2026)' },
     { src: 'assets/illustration/[I-2025]_Musical-Fest_Invitation.png', type: 'image', category: 'illustration', title: 'Musical Fest (2025)' },
-    { src: 'assets/illustration/[I-2025]_Uni-Gala_Invitation.png', type: 'image', category: 'illustration', title: 'Uni Gala (2025)' },
+    { src: 'assets/illustration/[I-2025]_Uni-Gala_Invitation.png', type: 'image', category: 'illustration', title: 'University Gala (2025)' },
     { src: 'assets/illustration/[I-2025]_Crossover-Invitation.png', type: 'image', category: 'illustration', title: 'Crossover Invitation (2025)' },
     { src: 'assets/illustration/[I-2026]_BNW.png', type: 'image', category: 'illustration', title: 'Buwan ng Wika (2026)' },
     { src: 'assets/illustration/[I-2025]_BNW.PNG', type: 'image', category: 'illustration', title: 'Buwan ng Wika (2025)' },
     { src: 'assets/illustration/[I-2026]_Grad2.png', type: 'image', category: 'illustration', title: 'Graduation 2 (2026)' },
     { src: 'assets/illustration/[I-2026]_Grad1.png', type: 'image', category: 'illustration', title: 'Graduation 1 (2026)' },
-    { src: 'assets/illustration/[I-2025]_FSUU-SSG-EXEC_HBD.png', type: 'image', category: 'illustration', title: 'FSUU SSG-Exec HBD (2025)' },
+    { src: 'assets/illustration/[I-2025]_FSUU-SSG-EXEC_HBD.png', type: 'image', category: 'illustration', title: 'FSUU SSG HBD (2025)' },
     { src: 'assets/illustration/[I-2025]_DOI-MYO.png', type: 'image', category: 'illustration', title: 'DOI Officers (2025)' },
 
-    { src: 'assets/illustration/[I-2025]_124th-UDAYS-OC.PNG', type: 'image', category: 'illustration', title: '124th UDAYS OC (2025)' },
+    { src: 'assets/illustration/[I-2025]_124th-UDAYS-OC.PNG', type: 'image', category: 'illustration', title: '124th UDAYS Opening (2025)' },
     { src: 'assets/illustration/[I-2025]_Pasundayag.PNG', type: 'image', category: 'illustration', title: 'Pasundayag (2025)' },
     { src: 'assets/illustration/[I-2025]_Lens-Ready.png', type: 'image', category: 'illustration', title: 'Lens Ready (2025)' },
     { src: 'assets/illustration/[I-2025]_Join-The-Pub.png', type: 'image', category: 'illustration', title: 'Join The Pub (2025)' },
@@ -230,8 +230,8 @@
     { src: 'assets/motion/[M-2025]_Bouncing-Ball.mp4', type: 'video', category: 'motion', title: 'Bouncing Ball (2025)' },
 
     // -- LED Backdrop --
-    { src: 'assets/motion/[M-2025]_124th-UDAYS-Mass-Demo-LED.mp4', type: 'video', category: 'motion', title: '124th UDAYS MD LED (2025)' },
-    { src: 'assets/motion/[M-2025]_124th-UDAYS-Opening-Ceremonies-LED.mp4', type: 'video', category: 'motion', title: '124th UDAYS OC LED (2025)' },
+    { src: 'assets/motion/[M-2025]_124th-UDAYS-Mass-Demo-LED.mp4', type: 'video', category: 'motion', title: '124th UDAYS Mass Demo LED (2025)' },
+    { src: 'assets/motion/[M-2025]_124th-UDAYS-Opening-Ceremonies-LED.mp4', type: 'video', category: 'motion', title: '124th UDAYS Opening LED (2025)' },
       
     // -- MoGraph --
     { src: 'assets/motion/[M-2026]_Stretch.mp4', type: 'video', category: 'motion', title: 'Stretch (2026)' },
